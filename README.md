@@ -2,6 +2,8 @@
 
 > Endpoint Platform Engineer passionate about automation and system administration, focused on streamlining IT operations and enhancing security through modern tooling and practices.
 
+![Visits](https://komarev.com/ghpvc/?username=jorgeasaurus&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 📜 Certifications
 
 [![Microsoft 365 Certified: Endpoint Administrator Associate](https://img.shields.io/badge/Microsoft_365_Certified:_Endpoint_Administrator_Associate-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAACXBIWXMAAAsTAAALEwEAmpwYAAACiElEQVR4nO3YsY0dMRAE0QVkTB6KZ432FONZiuFyOp+KgVaTX68ABkCgMDPdzwMAAAAAAAAAAAAAAAAAAHAM68/vdfPb/e/7N+vm95xGWwAChUAEignUniRWWKwwAsUN1J4ojug4ogkUKeyWt5s62zH8FeP70hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc6rB+pLQ6CDaAtAoOiBCBQrrD1JrLDogQgUR3R7ojiiowciUMT4W95u6mz3OK8eqC8NgQ6iLQCBogciUKyw9iSxwqIHIlAc0e2J4oiOHohAEeNvebups93jvHqgvjQEOoi2AASKHohAscLak8QKix6IQHFEtyeKIzp6IAJFjL/l7abOdo/z6oH60hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc77aT0QAAAAAAAAAAAA8Kn8+vpZN7/d/67vWTe/5zTaAhBoCESgMYHak8QKGyuMQOMGak8UR/Q4ogk0Utgtbzd1tmP4EuP70hDoINoCEGj0QAQaK6w9Sayw0QMRaBzR7YniiB49EIFGjL/l7abOdo+z9EB9aQh0EG0BCDR6IAKNFdaeJFbY6IEINI7o9kRxRI8eiEAjxt/ydlNnu8dZeqC+NAQ6iLYABBo9EIHGCmtPEits9EAEGkd0e6I4okcPRKAR4295u6mz3eMsPVBfGgIdRFsAAo0eiEBjhbUniRU2eiACjSO6PVEc0aMHItCI8be83dTZ7nGWHqgvDYEOoi0AgUYPRKCxwtqTxAobPRCBxhHdniiO6NEDEWjE+Fvebups9zjr03ogAAAAAAAAAAAAAAAAAADw/L/8A3VpW1ZhXbCuAAAAAElFTkSuQmCC)](https://learn.microsoft.com/api/credentials/share/en-us/JorgeSuarez-7408/A2B291647B02D103?sharingId=5EFF7C32EF47CA0D)
@@ -89,5 +91,3 @@
 Watch a 🐍 eat my GitHub contributions 🍏.
 
 ![GitHubContributionsSnake](https://raw.githubusercontent.com/jorgeasaurus/jorgeasaurus/refs/heads/output/github-contribution-grid-snake.svg)
-
-![Visits](https://komarev.com/ghpvc/?username=jorgeasaurus&label=Profile%20views&color=0e75b6&style=flat)
