@@ -24,7 +24,7 @@
 
 - JAMF Engineering
 - Grafana Dashboards
-- Teminal UIs In pwershell
+- Teminal UIs In PowerShell
 
 ## 📝 Latest Blog Posts
 
