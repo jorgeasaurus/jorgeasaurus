@@ -22,9 +22,8 @@
 
 ## 🌱 I'm currently learning
 
-- JAMF Engineering
-- Grafana Dashboards
-- Teminal UIs In PowerShell
+- Configuration as Code
+- Github Actions
 
 ## 📝 Latest Blog Posts
 
