@@ -29,17 +29,16 @@
 
 ## 🌱 I'm currently learning
 
-- JAMF Engineering
-- Splunk Dashboards
-- mSCP Best Practices
+- Configuration as Code
+- Github Actions
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
-[Synchronizing Device Groups with Entra User Groups using PowerShell](https://www.jorgeasaur.us/synchronizing-device-groups-with-entra-user-groups-using-powershell/)
+[Are you even good enough to have Imposter Syndrome?](https://www.jorgeasaur.us/are-you-even-good-enough-to-have-imposter-syndrome/)
 
-[Syncing ABM and VPP tokens with Intune](https://www.jorgeasaur.us/syncing-abm-and-vpp-tokens-with-intune-a-powershell-script-for-the-lazy-admin/)
+[Back up (or restore) Jamf Pro objects with PowerShell](https://www.jorgeasaur.us/back-up-or-restore-jamf-pro-objects-with-powershell/)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -98,5 +97,3 @@
 Watch a 🐍 eat my GitHub contributions 🍏.
 
 ![GitHubContributionsSnake](https://raw.githubusercontent.com/jorgeasaurus/jorgeasaurus/refs/heads/output/github-contribution-grid-snake.svg)
-
-![Visits](https://komarev.com/ghpvc/?username=jorgeasaurus&label=Profile%20views&color=0e75b6&style=flat)
