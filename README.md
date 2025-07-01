@@ -29,7 +29,7 @@ $Projects = @{
 $Platforms = @('Windows', 'macOS', 'Linux', 'iOS', 'Android')
 
 # LANGUAGES
-$Languages = @('PowerShell', 'Bash', 'JavaScript', 'Python', 'HTML', 'CSS')
+$Languages = @('PowerShell', 'Bash')
 
 # TOOLS & TECHNOLOGIES
 $Tools = @(
