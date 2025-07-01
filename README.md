@@ -1,99 +1,135 @@
-# Hi there 👋, I'm Jorge
+# Hi there, I'm Jorge
 
-> Endpoint Platform Engineer passionate about automation and system administration, focused on streamlining IT operations and enhancing security through modern tooling and practices.
+```powershell
+<#
+.SYNOPSIS
+Senior IT Systems Engineer with expertise in automation, cross-platform device management,
+and infrastructure engineering. Focused on Intune, SCCM, PowerShell, and cloud-first strategies
+for scale, security, and simplicity.
+#>
 
-## 🔬 Latest Project
+# PERSONAL INFORMATION
+$Info = [PSCustomObject]@{
+    Name        = 'Jorge Suarez'
+    Title       = 'Senior IT Systems Engineer'
+    Email       = 'jorge2990@live.com'
+    Location    = 'Greater Seattle Area'
+    LinkedIn    = 'https://www.linkedin.com/in/jorgeasaurus'
+    GitHub      = 'https://github.com/jorgeasaurus'
+    Blog        = 'https://jorgeasaur.us'
+}
 
-[🔍 JAMF Assignment Checker](https://github.com/jorgeasaurus/JamfAssignmentChecker)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jorgeasaurus/JamfAssignmentChecker/refs/heads/main/logo.png" alt="JAMF Assignment Checker Logo" width="800" style="margin-bottom: 20px;">
-</div>
+# Latest Projects
+$Projects = @{
+    JamfAssignmentChecker = "$($Info.GitHub)/JamfAssignmentChecker"
+    XpMdmExplorer         = "$($Info.GitHub)/XpMdmExplorer"
+}
 
-> A PowerShell-based utility for analyzing and auditing JAMF Pro policy and configuration profile assignments. This tool enables IT administrators to efficiently analyze assignments for specific computers, users, or groups, identify unassigned policies, detect empty groups, and audit the overall assignment landscape in JAMF Pro environments.
+# PLATFORMS
+$Platforms = @('Windows', 'macOS', 'Linux', 'iOS', 'Android')
 
-## 📜 Certifications
+# LANGUAGES
+$Languages = @('PowerShell', 'Bash', 'JavaScript', 'Python', 'HTML', 'CSS')
 
-[![Microsoft 365 Certified: Endpoint Administrator Associate](https://img.shields.io/badge/Microsoft_365_Certified:_Endpoint_Administrator_Associate-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAACXBIWXMAAAsTAAALEwEAmpwYAAACiElEQVR4nO3YsY0dMRAE0QVkTB6KZ432FONZiuFyOp+KgVaTX68ABkCgMDPdzwMAAAAAAAAAAAAAAAAAAHAM68/vdfPb/e/7N+vm95xGWwAChUAEignUniRWWKwwAsUN1J4ojug4ogkUKeyWt5s62zH8FeP70hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc6rB+pLQ6CDaAtAoOiBCBQrrD1JrLDogQgUR3R7ojiiowciUMT4W95u6mz3OK8eqC8NgQ6iLQCBogciUKyw9iSxwqIHIlAc0e2J4oiOHohAEeNvebups93jvHqgvjQEOoi2AASKHohAscLak8QKix6IQHFEtyeKIzp6IAJFjL/l7abOdo/z6oH60hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc77aT0QAAAAAAAAAAAA8Kn8+vpZN7/d/67vWTe/5zTaAhBoCESgMYHak8QKGyuMQOMGak8UR/Q4ogk0Utgtbzd1tmP4EuP70hDoINoCEGj0QAQaK6w9Sayw0QMRaBzR7YniiB49EIFGjL/l7abOdo+z9EB9aQh0EG0BCDR6IAKNFdaeJFbY6IEINI7o9kRxRI8eiEAjxt/ydlNnu8dZeqC+NAQ6iLYABBo9EIHGCmtPEits9EAEGkd0e6I4okcPRKAR4295u6mz3eMsPVBfGgIdRFsAAo0eiEBjhbUniRU2eiACjSO6PVEc0aMHItCI8be83dTZ7nGWHqgvDYEOoi0AgUYPRKCxwtqTxAobPRCBxhHdniiO6NEDEWjE+Fvebups9zjr03ogAAAAAAAAAAAAAAAAAADw/L/8A3VpW1ZhXbCuAAAAAElFTkSuQmCC)](https://learn.microsoft.com/api/credentials/share/en-us/JorgeSuarez-7408/A2B291647B02D103?sharingId=5EFF7C32EF47CA0D)
+# TOOLS & TECHNOLOGIES
+$Tools = @(
+    'Microsoft Intune', 'SCCM/MECM', 'Azure AD', 'Jamf Pro',
+    'Microsoft Graph API', 'Jira', 'Confluence', 'Bitbucket', 'GitHub', 'Jenkins',
+    'Power BI', 'Splunk'
+)
 
-[![Microsoft 365 Certified: Administrator Expert](https://img.shields.io/badge/Microsoft_365_Certified:_Administrator_Expert-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAACXBIWXMAAAsTAAALEwEAmpwYAAACiElEQVR4nO3YsY0dMRAE0QVkTB6KZ432FONZiuFyOp+KgVaTX68ABkCgMDPdzwMAAAAAAAAAAAAAAAAAAHAM68/vdfPb/e/7N+vm95xGWwAChUAEignUniRWWKwwAsUN1J4ojug4ogkUKeyWt5s62zH8FeP70hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc6rB+pLQ6CDaAtAoOiBCBQrrD1JrLDogQgUR3R7ojiiowciUMT4W95u6mz3OK8eqC8NgQ6iLQCBogciUKyw9iSxwqIHIlAc0e2J4oiOHohAEeNvebups93jvHqgvjQEOoi2AASKHohAscLak8QKix6IQHFEtyeKIzp6IAJFjL/l7abOdo/z6oH60hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc77aT0QAAAAAAAAAAAA8Kn8+vpZN7/d/67vWTe/5zTaAhBoCESgMYHak8QKGyuMQOMGak8UR/Q4ogk0Utgtbzd1tmP4EuP70hDoINoCEGj0QAQaK6w9Sayw0QMRaBzR7YniiB49EIFGjL/l7abOdo+z9EB9aQh0EG0BCDR6IAKNFdaeJFbY6IEINI7o9kRxRI8eiEAjxt/ydlNnu8dZeqC+NAQ6iLYABBo9EIHGCmtPEits9EAEGkd0e6I4okcPRKAR4295u6mz3eMsPVBfGgIdRFsAAo0eiEBjhbUniRU2eiACjSO6PVEc0aMHItCI8be83dTZ7nGWHqgvDYEOoi0AgUYPRKCxwtqTxAobPRCBxhHdniiO6NEDEWjE+Fvebups9zjr03ogAAAAAAAAAAAAAAAAAADw/L/8A3VpW1ZhXbCuAAAAAElFTkSuQmCC)](https://learn.microsoft.com/api/credentials/share/en-us/JorgeSuarez-7408/F41320F517848E99?sharingId=5EFF7C32EF47CA0D)
+# CERTIFICATIONS
+$Certifications = @(
+    'Microsoft 365 Certified: Administrator Expert'
+    'Microsoft 365 Certified: Endpoint Administrator Associate',
+    'Jamf 200 Certified Tech'
+)
 
-[![Jamf](https://img.shields.io/badge/Jamf_200_Certified:_Tech-white.svg?style=for-the-badge&logo=data:image/png;base64,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)](https://account.jamf.com/training-courses/certificate/tVCte1XUW74S0_U994fQCg)
+# LANGUAGES SPOKEN
+$SpokenLanguages = [PSCustomObject]@{
+    English = 'Native/Bilingual'
+    Spanish = 'Native/Bilingual'
+}
 
-[![Jamf](https://img.shields.io/badge/Jamf_100_Certified:_Associate-white.svg?style=for-the-badge&logo=data:image/png;base64,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)](https://www.credly.com/badges/ff9ab26b-6b3d-4968-99cb-4d00b63b8411/public_url)
+# WORK EXPERIENCE
+$Experience = @(
+    [PSCustomObject]@{
+        Company     = 'SpaceX'
+        Role        = 'Senior IT Systems Engineer'
+        Period      = 'Apr 2024 - Present'
+        Highlights  = @(
+            'Automated packaging for 50+ Windows apps, saving $500K annually',
+            'Created custom app request workflow for Jamf and Intune',
+            'Built Intune rollout dashboards via PowerShell + Graph + Jenkins',
+            'Automated SCCM cleanup to avoid storage outages',
+            'Implemented MDM cert renewal alerts to prevent device loss',
+            'Developed Azure dynamic group emulation for filtering gaps'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'SpaceX'
+        Role        = 'IT Systems Engineer'
+        Period      = 'Apr 2020 - Apr 2024'
+        Highlights  = @(
+            'Automated application lifecycle in SCCM using Jenkins and PowerShell',
+            'Deployed Intune MDM with advanced security policies',
+            'Integrated Graph API and Jenkins for cloud orchestration'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'Jabil'
+        Role        = 'Systems Engineer (Intune/SCCM)'
+        Period      = 'Mar 2019 - Apr 2020'
+        Highlights  = @(
+            'Led endpoint M&A rollout across US and Europe (3000+ devices)',
+            'Reduced provisioning time by 80% with PowerShell and SCCM',
+            'Built auditing GUI that cut audit time by 90%'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'Jabil'
+        Role        = 'Programmer Analyst I'
+        Period      = 'May 2018 - Mar 2019'
+        Highlights  = @(
+            'Provisioned Docker EE infra with VSTS CI/CD',
+            'Integrated AWS/Azure hybrid deployments',
+            'Built monitoring stack using Prometheus & Grafana'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'Jabil'
+        Role        = 'Desktop Support Technician II'
+        Period      = 'May 2017 - May 2018'
+        Highlights  = @(
+            'Supported 400+ users with SCCM imaging and automation',
+            'Reduced SLA breaches with scripting automations',
+            'Participated in on-call rotation and user training'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'Synergy Technology Solutions LLC'
+        Role        = 'IT Support Technician Level 2'
+        Period      = 'Apr 2016 - Apr 2017'
+        Highlights  = @(
+            'Monitored and supported 35+ client networks',
+            'Maintained backup/recovery systems and change requests',
+            'Led troubleshooting for network and software issues'
+        )
+    }
+)
 
-## 🔭 I'm currently working on
-
-- Automating processes
-- Eliminating Technical Debt
-- Enhancing security compliance
-
-## 🌱 I'm currently learning
-
-- Configuration as Code
-- Github Actions
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-[Are you even good enough to have Imposter Syndrome?](https://www.jorgeasaur.us/are-you-even-good-enough-to-have-imposter-syndrome/)
-
-[Back up (or restore) Jamf Pro objects with PowerShell](https://www.jorgeasaur.us/back-up-or-restore-jamf-pro-objects-with-powershell/)
-
-<!-- BLOG-POST-LIST:END -->
-
-## 💼 Technical Skills
-
-### Platforms & Cloud 💻
-
-![MECM](https://img.shields.io/badge/Microsoft_Endpoint_Configuration_Manager-black.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAACXBIWXMAAAsTAAALEwEAmpwYAAACiElEQVR4nO3YsY0dMRAE0QVkTB6KZ432FONZiuFyOp+KgVaTX68ABkCgMDPdzwMAAAAAAAAAAAAAAAAAAHAM68/vdfPb/e/7N+vm95xGWwAChUAEignUniRWWKwwAsUN1J4ojug4ogkUKeyWt5s62zH8FeP70hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc6rB+pLQ6CDaAtAoOiBCBQrrD1JrLDogQgUR3R7ojiiowciUMT4W95u6mz3OK8eqC8NgQ6iLQCBogciUKyw9iSxwqIHIlAc0e2J4oiOHohAEeNvebups93jvHqgvjQEOoi2AASKHohAscLak8QKix6IQHFEtyeKIzp6IAJFjL/l7abOdo/z6oH60hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc77aT0QAAAAAAAAAAAA8Kn8+vpZN7/d/67vWTe/5zTaAhBoCESgMYHak8QKGyuMQOMGak8UR/Q4ogk0Utgtbzd1tmP4EuP70hDoINoCEGj0QAQaK6w9Sayw0QMRaBzR7YniiB49EIFGjL/l7abOdo+z9EB9aQh0EG0BCDR6IAKNFdaeJFbY6IEINI7o9kRxRI8eiEAjxt/ydlNnu8dZeqC+NAQ6iLYABBo9EIHGCmtPEits9EAEGkd0e6I4okcPRKAR4295u6mz3eMsPVBfGgIdRFsAAo0eiEBjhbUniRU2eiACjSO6PVEc0aMHItCI8be83dTZ7nGWHqgvDYEOoi0AgUYPRKCxwtqTxAobPRCBxhHdniiO6NEDEWjE+Fvebups9zjr03ogAAAAAAAAAAAAAAAAAADw/L/8A3VpW1ZhXbCuAAAAAElFTkSuQmCC)
-![Azure](https://img.shields.io/badge/Azure-black.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAtMTYuMzMgMTYxLjY3IDE2MS42NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtODguMzMgMC00Ny42NiA0MS4zMy00MC42NyA3M2gzNi42N3ptNi4zNCA5LjY3LTIwLjM0IDU3LjMzIDM5IDQ5LTc1LjY2IDEzaDEyNHoiIGZpbGw9IiMwMDcyYzYiLz48L3N2Zz4=)
-![Intune](https://img.shields.io/badge/microsoft_Intune-black.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAADAElEQVR4nO2dvW4TQRDHVxTQIIQiEu9YIBqqVKkQlLwCgpY3iBDBO4jKgkTClMA7UPAOvAHE3vVVKVGANh8USROjdSQEmIQ7f+zM3f5/0kqWorNn5nf75T0rxgAAAAAAAAAAAAAAAEDWrHaLi9aF1+T8N+IwanKzHL5aDr2Ys9FCDEi6MJReRM9oIYc7nyaa/260IF+MINKMFqQLQRAgXwxCD1DcRWektkOQaQikPT/1ATY9P/UBNj0/9QE2PT/1ATY9P/UBNj0/9QE2PT+JAFtPByvkwpZl3ycOP2KzLmwTh834N5MTqQVYFx4S+4Ozd7/+wLJ/YHIhpQB7WvyT/3/14E+ykZBKQCsOO+fe+RMS9u3z7WXTdFIJIBe2yhc/o5O2VAKs8wPpQqk8aUvXA/yhdIFUnrQlE8BVxv/6NrUC7OmaX7xA2QogDpvSxclaQKvqMtSFPdr4dM0opXYCInFzVX4jNrxvFFNLAb9J2D/vztde/FoLiMQdLjn/0nL4PF6eOn84fs3+heZhpzECmgAECAMBwkCAMBAwJ4jDh+tPiqUprsMkPA9iIS37Ly03vFf1OqyC5sAfmz/n39xa37lU7TosQ2fiHxvBot0p1sT3ATk3y/6IXHhmuqMLEMCCMlz42N4Y3kAPYFEJe7YzeLSwISgeKEt3ecpcQHY/UyVNQ9D4h9oceugJQWYSTg2VvPuyWYamhtQKENqIpWRpfedKWQHL3eJyipjEv4pIyQr7O2UFtLh/O0VMlsP7m4/7V6teV0sB1vl3ZQVY9m9n+axFF6h2AtqdYs06f1xBwFGZyfAsIODv4nPYLb3+/iUh7E4rIXsBcRJtd8LdOOzYCnf+hATnj+N7xPmjysScjYBpC0tzbqkLBAEMAegBjCFohCFIwfhPmAMggLRvxFKTzSpIKwQBOgVQ4rkoWwgCICBrCD2gXgLMgt8nOwgC6iWAsAqaLxLPOcUDpDmnUV+swBN/1vlX0nmrYTXhE38q/zUKAAAAAAAAAAAAAAAAGAl+Al9Z4MBsYmyeAAAAAElFTkSuQmCC)
-![Jamf](https://img.shields.io/badge/Jamf-white.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAYFBMVEV4j7L///91jbGbq8Vyiq+5xNWXqMPg5Oxuh61zi7B3jrHk6O9rhaz7/P3t8PR9k7WhsMiRo7/Q1+PEzdyKnryuu8/Y3uj09vm6xdaGmrnp7PKotcuzv9LJ0t/T2uWBl7eSiryOAAAF00lEQVR4nO2d2XbiOhREZVmAPJswGIIJ//+XjU3ndt/YJhCkKvdZ2i95w9lL8nCkkqSi3zRvbR375rRYRWjU7c9qbU2i/ZNYvWsIhkWcawXiKrmBGzaXBOXXY09gw6KCNeCnYo01XGNbsFcEdlQVvVm4oFI57nGjoiolGCa4W1GtGE2olClghi3+LuwN32CGa/SD9Aaum6qKIqj0FmZIIq2C4b9uqNfSDZOddEPg24KELYUbaoUSpBkupRsmC+mGdi/eEFgfUkhxDxqSoQYO1HAMDXKchoLNpBsmsDEMkiGu/GUZ4goLliGusGAZ5rDCgmVogIIUQ2BhQTI0uMKCZAgsLFiG0HlugmB6QQoyDJGFBccQWVhwDH9YWBRNU2arB8n+fFMQDPMn1ZrVpq23Shv7DLpesQyfKSyKfbtW9hZmevYy2q4bjuHDhUV5OFqbPK32B60ziuFjhUWx2Vrz6vR0at8Zho/MWGR1/rJeR6oJhg/MWOy31lW4wLR4w/S7wiJz56e6VIu733r0kof791/t0q+7613+2kPcLyzO2nG8R+/c/t4D2DsDiUXstgGvpGvHP/j9Fe8UFmXlIZ91cf+T97lTWOwtI0PonOnC4oxLYntlsrDY5Ox/zRFTMxZnTgjUPVOFxYeUFpwqLDIpLThVWDRaxFO0Z7yw2Mp4inaMJxRaw/6/3DFaWJCy9H4YLSwoyyF8YUcW50nqo6MzFqWkPjoa7o7lPEev6OEii0zMx0zPSGGxlvSYGSssBH2u9ehBYbEUdReOFBalrLtQJe1Xwx1n4Zw3BgOJxQvTLrNksDT2LOpz5nobHgevCmFNOFiB0Ah7VQzfhhthnXT4USqotO8ZDEKFTvqvMZySkdZJB3WFtE6qB8P50l73w8Fuaa/7wQhNIayTDjeJkNZJzWCQbSlr+GKYXS9kNeHIKOKbLMORDI2sYVIzsheNqCepHhnp/hBlODYrWkvqpHZkYlvUEJQdmzLcC+qkdjR8cZLThBObQMp5GdrBKDehk3rczSzNz6OC0Qk6mL/19gWc6KmUnoJ+dfu66bVdTqWBwfEST5/AiZ7ooRF8xqlwsnTjCzqv78S5FfZd4SHPom38Pu0Hz0C5vu9TY+t7fvhp0S4t4EwxTWy1+G4d8wU8ftF1Gye3otbGXtr7zdfxjv4m7S5aXl5qRp3qxFgdnx/a7mKBnru/XfZ8yY3W6TN0e8gnplu6qo7x4uPhNfboTvpfpHV1OMXLZ4jr0649nPfZc/sHwDspcFuxGwt4XYE2PMJHgsGChBQU2PCAL37Bhkf8+AVWkJF5xhoy0glYQ0Y6ASrYMPKkUENKhAZqSEknIAUbykgw0pCTTkAaciI0QMGCk8wHGpLSCUBD0vIRnCArQoMzpBwOBjVkRWhwhqyJX5ggLUIDM6RFaGCGtAgNSpAXoUEZ8iI0KENezgskSNz8AmSIjdAwDLERGoIhc4cWjCFz0TbGkJmYhQhSE7MQQ+oqLoQgd3MIhCHxZYgx5Ax1Iw3x8QuwIXstpX9D9hYt3gXJdyHAkL5Rkm/BPX2jJM+CBbFswhjW/J2g/ArOYQNkr4Kz2HDOp+A89gf2KFhU7BdFjz/B5jILQX+GzTxa0J+hm0UcLvAkeJjPUQ5e/MrtHF4Tv/HgV+ycH6byCs79mtaw66X/49gvq18/TMwxDu2K/a6aVf+84Uauyc677qS72TxA/+LzfyzfNosfsTstj1V3RuEc7Tpufh/H3PyMJNFpOr+u+Rd9+zk9zG1uRN3MkGC/20pn0YIqKmb7iHBEtJvXF4h7pG0jOkTaXrdDRO0rNspMBlMCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAg8DKVz3Nm5kB6VGvZaZq0VuwVnp4xG8XckwOALVVUSe6mOo6UsKMIv2DLq2FUy01FdYeGdfnSpVBFnXdngfcZ4VMuMRiVmP5syVvOe7/uDmGRRGLN6Xao1mdW/31zigVRt/vPQ8N+ARLwYX/oXfF2AAAAAElFTkSuQmCC)
-![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-005C84.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAACXBIWXMAAAsTAAALEwEAmpwYAAACiElEQVR4nO3YsY0dMRAE0QVkTB6KZ432FONZiuFyOp+KgVaTX68ABkCgMDPdzwMAAAAAAAAAAAAAAAAAAHAM68/vdfPb/e/7N+vm95xGWwAChUAEignUniRWWKwwAsUN1J4ojug4ogkUKeyWt5s62zH8FeP70hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc6rB+pLQ6CDaAtAoOiBCBQrrD1JrLDogQgUR3R7ojiiowciUMT4W95u6mz3OK8eqC8NgQ6iLQCBogciUKyw9iSxwqIHIlAc0e2J4oiOHohAEeNvebups93jvHqgvjQEOoi2AASKHohAscLak8QKix6IQHFEtyeKIzp6IAJFjL/l7abOdo/z6oH60hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc77aT0QAAAAAAAAAAAA8Kn8+vpZN7/d/67vWTe/5zTaAhBoCESgMYHak8QKGyuMQOMGak8UR/Q4ogk0Utgtbzd1tmP4EuP70hDoINoCEGj0QAQaK6w9Sayw0QMRaBzR7YniiB49EIFGjL/l7abOdo+z9EB9aQh0EG0BCDR6IAKNFdaeJFbY6IEINI7o9kRxRI8eiEAjxt/ydlNnu8dZeqC+NAQ6iLYABBo9EIHGCmtPEits9EAEGkd0e6I4okcPRKAR4295u6mz3eMsPVBfGgIdRFsAAo0eiEBjhbUniRU2eiACjSO6PVEc0aMHItCI8be83dTZ7nGWHqgvDYEOoi0AgUYPRKCxwtqTxAobPRCBxhHdniiO6NEDEWjE+Fvebups9zjr03ogAAAAAAAAAAAAAAAAAADw/L/8A3VpW1ZhXbCuAAAAAElFTkSuQmCC)
-
-### Operating Systems 💾
-
-![Windows](https://img.shields.io/badge/Windows-black.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAACXBIWXMAAAsTAAALEwEAmpwYAAACiElEQVR4nO3YsY0dMRAE0QVkTB6KZ432FONZiuFyOp+KgVaTX68ABkCgMDPdzwMAAAAAAAAAAAAAAAAAAHAM68/vdfPb/e/7N+vm95xGWwAChUAEignUniRWWKwwAsUN1J4ojug4ogkUKeyWt5s62zH8FeP70hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc6rB+pLQ6CDaAtAoOiBCBQrrD1JrLDogQgUR3R7ojiiowciUMT4W95u6mz3OK8eqC8NgQ6iLQCBogciUKyw9iSxwqIHIlAc0e2J4oiOHohAEeNvebups93jvHqgvjQEOoi2AASKHohAscLak8QKix6IQHFEtyeKIzp6IAJFjL/l7abOdo/z6oH60hDoINoCECh6IALFCmtPEisseiACxRHdniiO6OiBCBQx/pa3mzrbPc77aT0QAAAAAAAAAAAA8Kn8+vpZN7/d/67vWTe/5zTaAhBoCESgMYHak8QKGyuMQOMGak8UR/Q4ogk0Utgtbzd1tmP4EuP70hDoINoCEGj0QAQaK6w9Sayw0QMRaBzR7YniiB49EIFGjL/l7abOdo+z9EB9aQh0EG0BCDR6IAKNFdaeJFbY6IEINI7o9kRxRI8eiEAjxt/ydlNnu8dZeqC+NAQ6iLYABBo9EIHGCmtPEits9EAEGkd0e6I4okcPRKAR4295u6mz3eMsPVBfGgIdRFsAAo0eiEBjhbUniRU2eiACjSO6PVEc0aMHItCI8be83dTZ7nGWHqgvDYEOoi0AgUYPRKCxwtqTxAobPRCBxhHdniiO6NEDEWjE+Fvebups9zjr03ogAAAAAAAAAAAAAAAAAADw/L/8A3VpW1ZhXbCuAAAAAElFTkSuQmCC)
-![macOS](https://img.shields.io/badge/macos-black.svg?style=for-the-badge&logo=apple)
-![android](https://img.shields.io/badge/android-black.svg?style=for-the-badge&logo=data:image/png;base64,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)
-![iOS](https://img.shields.io/badge/ios-black.svg?style=for-the-badge&logo=apple)
-![linux](https://img.shields.io/badge/linux-black.svg?style=for-the-badge&logo=linux)
-
-### Languages 💻
-
-![PowerShell](https://img.shields.io/badge/Powershell-black.svg?style=for-the-badge&logo=data:image/png;base64,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)
-![Bash](https://img.shields.io/badge/Bash-silver.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACwElEQVR4nO3cSWsUQRyG8eeuoqBCPoF4EwUPohdRURHXg/tyMBDJSRAVwVNEgyB+I69+AC/iRSGuF1dcMm4jFVoYe/6BBJmud6reHxQkgaSaeqa7hp7JgJmZmZmN1jpgFngC9IC+B6Ncg16z1mnN17ZjbAFeOwC5HoSvgM2DZ4ZjkP2K8PLvmTIrcDAeLKzBHZrr2OCC3ANWjHi/MhbW+H5r7R8TbOCO0Z2VwUY/dLmwbg2tv4Pk5SBiHESMg4hxEDEOIsZBxi2IB1nXwAHQWoPsB+CBg/SFHwjDP7BOOYgYBxHjIGIcRIyDiHEQMQ4ixkHEOIgYBxHjIGIcRIyDiHEQMRJBVgGrO5pLXfYgx4CvwC/gVgfzqcse5FFrvrvUrZ87yINgzhnq1c8dZAPwJpj3JnXKHiTZuEiUG9RHIkiyCXgbzH+VusgEoflX4Het+X8D09RDKkiyDfgURJmiDnJBku3A5yDKJOWTDJLsBr61juUncJqyyQZJ9gLzQZSTlEs6SHIE+N46pvT9IcokHyQ50ZwZg8eVzpx9lGcsgiTnmxuQg8eWbkrupCxjE+RAsJ+kZ16XKMtYBDkafAZLOlsuUh75IMeDTT3tJxcok3SQU8CPIMY5yiUbZDLYxFOMM5RNMshUEKPX7CWlkwsy3Tx76rdiHKYOUkGuBfPPAweph0yQ68HcX4A91EUiyMwiMXZRn+xBbgdzpheodizx968AH4O/MarxFNhfapD1wQb+oXnVcCkmgpuOXYwXFBpkTev+VHo9fesyfn8iCOog/+ks8Ax42LzzZLkuA+99ybJiN3X7l4OIcRAxDiLGQcQ4iBgHEeMgYhxEjIOIcRAxDiLGQcQ4iBgHEeMgYhxEjIOIcRAxDiLGQcYtiAdZ18AB0FoDngschAcLazBH80bi9IUXhaxrMFfoByOYmZmZkd8fTE8CrzV7QWgAAAAASUVORK5CYII=)
-
-### Automation & DevOps ♾️
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-E44C30?style=for-the-badge&logo=github&logoColor=white)
-![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![jenkins](https://img.shields.io/badge/jenkins-silver.svg?style=for-the-badge&logo=jenkins)
-
-### Development Tools 🛠
-
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEs0lEQVR4nO2ZW2gcVRjHv5nUFupDycY2TWzTW9qk9VGrIqgPBUFQRESRqn0U2jSbvc22BTHRXGaCCBYfpIo+pG8BbXdu2ZmTkBKreEncmSVY8ckWFCsGaswcNbdPZjbbZJPdnbOy7iaQP/wez57/b/fMnDOzAJvZzGaqli0Xrj2+tS91c8fl23cCCfrBLvWvg7BhEhp6DoJJCkEDuRCZqZMp1iWcuYDsXK5N/PkArOuEySkIGXMQMhA6DHQlPIEsCWcxIFMlkHAehXWXiNkBEWMRwiZ6LEnkCOTgXK+TnWerXRsAkIMoeQeiJnpElgTCGYn7ZFqUuoQzVnuF7q1O987RLRAjn4BAEGIE10iETF8Bj4QzXPnyUeNeEEwd4gQ9AU/CXCOxU6YMOP9Utnw4GQDB/MIrn6WAxE4mAYqVKy+YjSCQdE75IhK7FMoEewFEDqTUwyCm9pdcPjp8DOLkVt7yBSTqFcoEW4F3JwOcZI/yko28aM9zktUNg4M1TGPjI49BnEwVLb9WYr58AtJkEy9ZN7zyK+AkewR60/VFxwrkGRCIw1Q+S4z8BjHjqd0KRRZ8+/OS/fnq8ncR7Z9BtJ/IOzBmvAqCMVtS+bg55l0rANCgUGTBX0C0pgoKZJjjxfQ57xrJJjLUAVFjAWIGgmCyFF8EwbwIr4/fk/2Isgm4691HILukZOicDEBQkyAyhBBNoifgJyGQOxAjL6yet1GhyIKvgPvNcqLdxSLB907MeLfBkIY5Eq5AXglzAs6TvEfmxrIJLIUXrXZeshZ8JUQLuQvXGCTMS9Cubys03/0KRRaYBTwJyT7Ji/Ys05Lq+gohrK+ViJnTEB9+2W+uPSpFFqDU1PTbJ3jRmmZaUj0TmdJZiWjye4gPMT2c7Pm/BLz0fXec4e6Uu6TC+oB3kGPMXpUiC/9N4LR8HNq1Kb573F8gu6REewA6x7dXXyAon4A2ZRrOJBDOKsi//Q2zBC/aKeibbGaZpkmlyEJp5cPJk9ChzkJQ9cp7Em0y8m99XYKEe/2kXvKbap9KkQX28rFkO0SSCxAeQujQMCMhZyTOJJB780t2CW/jsy5B5+TWCgggBwLpyhy0DIRIEvNLXEXujeszpUjwovVtoeP5fpUiC/79BdKTe1pcJdG+JHH6qgJtn9Ux79p3sX6vkeynV097QKXIgr9AvrP8SomgOgdn1fPeL1Xqrr38SyxykiWtfMY4oFFkgUHAHMt/bvckfoGw/mS+YXx/+hXWXXvFgXAUesYb3PEHNYos+AucI00gkBt5TpEjEByuL9uuvXyrve2OK5/A8tuE0aXy8xA3u+FFxkfKPusRd52Xdl3Yc4c0iiwAe9y7kfkQRJKlvw3rTbfyknWzFIlmjTIBFUvPeAMvWvbGFXAjpmuLPmNLyxzWKBNQ8Vz8cRsn2p+WQ6BZq/SrxWwGB2s4yfqomMARjfpyWKU6VC0+z9otOi2ORrVj6sxuqHZ4yQrm27VbChZ3SKu+zv6p4fut11bv2q06XYGz0KJTpVV1HoT1GvdAx4s2dctvf+8Hr3iL5sy26M7AkeTfrbARsuPjW88HPvzp10NX/pg6qtP3j6p0X7U7bWYzsMHyL9ro5E9GuMsUAAAAAElFTkSuQmCC)![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=blue)
-![Confluence](https://img.shields.io/badge/-confluence-black?style=for-the-badge&logo=Confluence&logoColor=blue)
-![Bitbucket](https://img.shields.io/badge/-bitbucket-black?style=for-the-badge&logo=bitbucket&logoColor=blue)
-
-### Security 🚔:
-
-![splunk](https://img.shields.io/badge/-splunk-black?style=for-the-badge&logo=splunk)
-![Defender](https://img.shields.io/badge/-microsoft_defender-white?style=for-the-badge&logo=data:image/png;base64,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)
-
-## 📊 GitHub Stats
-
-![Stats](https://readmestats.999857.xyz/api?username=jorgeasaurus&show_icons=true&locale=en&theme=dark)
-
-## 🔗 Quick Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgeasaurus)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.jorgeasaur.us)
-
-## 🎈Just for fun
-
-Watch a 🐍 eat my GitHub contributions 🍏.
-
-![GitHubContributionsSnake](https://raw.githubusercontent.com/jorgeasaurus/jorgeasaurus/refs/heads/output/github-contribution-grid-snake.svg)
+# EDUCATION
+$Education = @(
+    [PSCustomObject]@{
+        Institution = 'Hillsborough Community College'
+        Degree      = 'Associate of Science'
+        Focus       = 'Network Administration'
+        Period      = '2016-2019'
+    },
+    [PSCustomObject]@{
+        Institution = 'Hillsborough High School'
+        Degree      = 'High School Diploma (with Honors)'
+        Period      = '2006-2009'
+    }
+)
+```
