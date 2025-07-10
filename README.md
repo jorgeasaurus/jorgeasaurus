@@ -21,8 +21,8 @@ $Info = [PSCustomObject]@{
 
 # Latest Projects
 $Projects = @{
-    JamfAssignmentChecker = "$($Info.GitHub)/JamfAssignmentChecker"
-    XpMdmExplorer         = "$($Info.GitHub)/XpMdmExplorer"
+    "Intune-Snapshot-Recovery"  = "$($Info.GitHub)/Intune-Snapshot-Recovery"
+    "JamfAssignmentChecker"     = "$($Info.GitHub)/JamfAssignmentChecker"
 }
 
 # PLATFORMS
