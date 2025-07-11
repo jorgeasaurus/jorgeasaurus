@@ -1,12 +1,15 @@
-# Hi there 👋, I'm Jorge
+<p align="center">
+  <img src="./github-header-image.png" alt="Header" />
+</p>
 
 > Endpoint Platform Engineer passionate about automation and system administration, focused on streamlining IT operations and enhancing security through modern tooling and practices.
 
 ## 🔬 Latest Project
 
-[🔍 JAMF Assignment Checker](https://github.com/jorgeasaurus/JamfAssignmentChecker)
+[📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jorgeasaurus/JamfAssignmentChecker/refs/heads/main/logo.png" alt="JAMF Assignment Checker Logo" width="800" style="margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/jorgeasaurus/Intune-Snapshot-Recovery/refs/heads/main/logo.png" alt="Intune-Snapshot-Recovery Logo" width="800" style="margin-bottom: 20px;">
 </div>
 
 > A PowerShell-based utility for analyzing and auditing JAMF Pro policy and configuration profile assignments. This tool enables IT administrators to efficiently analyze assignments for specific computers, users, or groups, identify unassigned policies, detect empty groups, and audit the overall assignment landscape in JAMF Pro environments.
