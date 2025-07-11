@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jorge Suarez - Senior IT Systems Engineer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --card-bg: #161b22;
+            --text-color: #c9d1d9;
+            --accent-color: #58a6ff;
+            --border-color: #30363d;
+            --code-bg: #0d1117;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            color: #fff;
+            text-align: center;
+        }
+        
+        .code-container {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 2rem;
+        }
+        
+        .code-header {
+            background-color: #1f2428;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .language-label {
+            color: var(--accent-color);
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+        
+        .copy-button {
+            background-color: var(--accent-color);
+            color: white;
+            border: none;
+            padding: 0.25rem 0.75rem;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.875rem;
+            transition: opacity 0.2s;
+        }
+        
+        .copy-button:hover {
+            opacity: 0.8;
+        }
+        
+        .copy-button.copied {
+            background-color: #2ea043;
+        }
+        
+        pre[class*="language-"] {
+            margin: 0;
+            padding: 1.5rem;
+            overflow-x: auto;
+            background-color: var(--code-bg);
+        }
+        
+        .rendered-content {
+            padding: 2rem;
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+        }
+        
+        .info-section {
+            margin-bottom: 2rem;
+        }
+        
+        .info-section h2 {
+            color: var(--accent-color);
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+        
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+        
+        .info-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .info-label {
+            font-weight: 600;
+            color: #8b949e;
+        }
+        
+        .info-value {
+            color: var(--text-color);
+        }
+        
+        .info-value a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+        
+        .info-value a:hover {
+            text-decoration: underline;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background-color: rgba(88, 166, 255, 0.1);
+            color: var(--accent-color);
+            border-radius: 20px;
+            font-size: 0.875rem;
+            margin: 0.25rem;
+        }
+        
+        .experience-item {
+            background-color: #0d1117;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 1rem;
+        }
+        
+        .experience-title {
+            color: #fff;
+            font-size: 1.125rem;
+            font-weight: 600;
+        }
+        
+        .experience-period {
+            color: #8b949e;
+            font-size: 0.875rem;
+        }
+        
+        .experience-company {
+            color: var(--accent-color);
+            margin-bottom: 0.5rem;
+        }
+        
+        .highlights {
+            list-style: none;
+            padding-left: 1rem;
+        }
+        
+        .highlights li {
+            position: relative;
+            padding-left: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .highlights li:before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: var(--accent-color);
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .experience-header {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi there, I'm Jorge</h1>
+        
+        <div class="code-container">
+            <div class="code-header">
+                <span class="language-label">PowerShell</span>
+                <button class="copy-button" onclick="copyCode()">Copy</button>
+            </div>
+            <pre><code class="language-powershell" id="powershell-code">&lt;#
+.SYNOPSIS
+Senior IT Systems Engineer with expertise in automation, cross-platform device management,
+and infrastructure engineering. Focused on Intune, SCCM, PowerShell, and cloud-first strategies
+for scale, security, and simplicity.
+#&gt;
+
+# PERSONAL INFORMATION
+$Info = [PSCustomObject]@{
+    Name        = 'Jorge Suarez'
+    Title       = 'Senior IT Systems Engineer'
+    Email       = 'jorge2990@live.com'
+    Location    = 'Greater Seattle Area'
+    LinkedIn    = 'https://www.linkedin.com/in/jorgeasaurus'
+    GitHub      = 'https://github.com/jorgeasaurus'
+    Blog        = 'https://jorgeasaur.us'
+}
+
+# Latest Projects
+$Projects = @{
+    "Intune-Snapshot-Recovery"  = "$($Info.GitHub)/Intune-Snapshot-Recovery"
+    "JamfAssignmentChecker"     = "$($Info.GitHub)/JamfAssignmentChecker"
+}
+
+# PLATFORMS
+$Platforms = @('Windows', 'macOS', 'Linux', 'iOS', 'Android')
+
+# LANGUAGES
+$Languages = @('PowerShell', 'Bash')
+
+# TOOLS &amp; TECHNOLOGIES
+$Tools = @(
+    'Microsoft Intune', 'SCCM/MECM', 'Azure AD', 'Jamf Pro',
+    'Microsoft Graph API', 'Jira', 'Confluence', 'Bitbucket', 'GitHub', 'Jenkins',
+    'Power BI', 'Splunk'
+)
+
+# CERTIFICATIONS
+$Certifications = @(
+    'Microsoft 365 Certified: Administrator Expert'
+    'Microsoft 365 Certified: Endpoint Administrator Associate',
+    'Jamf 200 Certified Tech'
+)
+
+# LANGUAGES SPOKEN
+$SpokenLanguages = [PSCustomObject]@{
+    English = 'Native/Bilingual'
+    Spanish = 'Native/Bilingual'
+}
+
+# WORK EXPERIENCE
+$Experience = @(
+    [PSCustomObject]@{
+        Company     = 'SpaceX'
+        Role        = 'Senior IT Systems Engineer'
+        Period      = 'Apr 2024 - Present'
+        Highlights  = @(
+            'Automated packaging for 50+ Windows apps, saving $500K annually',
+            'Created custom app request workflow for Jamf and Intune',
+            'Built Intune rollout dashboards via PowerShell + Graph + Jenkins',
+            'Automated SCCM cleanup to avoid storage outages',
+            'Implemented MDM cert renewal alerts to prevent device loss',
+            'Developed Azure dynamic group emulation for filtering gaps'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'SpaceX'
+        Role        = 'IT Systems Engineer'
+        Period      = 'Apr 2020 - Apr 2024'
+        Highlights  = @(
+            'Automated application lifecycle in SCCM using Jenkins and PowerShell',
+            'Deployed Intune MDM with advanced security policies',
+            'Integrated Graph API and Jenkins for cloud orchestration'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'Jabil'
+        Role        = 'Systems Engineer (Intune/SCCM)'
+        Period      = 'Mar 2019 - Apr 2020'
+        Highlights  = @(
+            'Led endpoint M&amp;A rollout across US and Europe (3000+ devices)',
+            'Reduced provisioning time by 80% with PowerShell and SCCM',
+            'Built auditing GUI that cut audit time by 90%'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'Jabil'
+        Role        = 'Programmer Analyst I'
+        Period      = 'May 2018 - Mar 2019'
+        Highlights  = @(
+            'Provisioned Docker EE infra with VSTS CI/CD',
+            'Integrated AWS/Azure hybrid deployments',
+            'Built monitoring stack using Prometheus &amp; Grafana'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'Jabil'
+        Role        = 'Desktop Support Technician II'
+        Period      = 'May 2017 - May 2018'
+        Highlights  = @(
+            'Supported 400+ users with SCCM imaging and automation',
+            'Reduced SLA breaches with scripting automations',
+            'Participated in on-call rotation and user training'
+        )
+    },
+    [PSCustomObject]@{
+        Company     = 'Synergy Technology Solutions LLC'
+        Role        = 'IT Support Technician Level 2'
+        Period      = 'Apr 2016 - Apr 2017'
+        Highlights  = @(
+            'Monitored and supported 35+ client networks',
+            'Maintained backup/recovery systems and change requests',
+            'Led troubleshooting for network and software issues'
+        )
+    }
+)
+
+# EDUCATION
+$Education = @(
+    [PSCustomObject]@{
+        Institution = 'Hillsborough Community College'
+        Degree      = 'Associate of Science'
+        Focus       = 'Network Administration'
+        Period      = '2016-2019'
+    },
+    [PSCustomObject]@{
+        Institution = 'Hillsborough High School'
+        Degree      = 'High School Diploma (with Honors)'
+        Period      = '2006-2009'
+    }
+)</code></pre>
+        </div>
+        
+        <div class="rendered-content">
+            <div class="info-section">
+                <h2>Personal Information</h2>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="info-label">Name:</span>
+                        <span class="info-value">Jorge Suarez</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Title:</span>
+                        <span class="info-value">Senior IT Systems Engineer</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Email:</span>
+                        <span class="info-value"><a href="mailto:jorge2990@live.com">jorge2990@live.com</a></span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Location:</span>
+                        <span class="info-value">Greater Seattle Area</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">LinkedIn:</span>
+                        <span class="info-value"><a href="https://www.linkedin.com/in/jorgeasaurus" target="_blank">jorgeasaurus</a></span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">GitHub:</span>
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus" target="_blank">jorgeasaurus</a></span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Blog:</span>
+                        <span class="info-value"><a href="https://jorgeasaur.us" target="_blank">jorgeasaur.us</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <h2>Latest Projects</h2>
+                <div>
+                    <div class="info-item">
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/Intune-Snapshot-Recovery" target="_blank">Intune-Snapshot-Recovery</a></span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/JamfAssignmentChecker" target="_blank">JamfAssignmentChecker</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <h2>Technical Skills</h2>
+                <div>
+                    <h3 style="color: #8b949e; margin-bottom: 0.5rem;">Platforms</h3>
+                    <div>
+                        <span class="badge">Windows</span>
+                        <span class="badge">macOS</span>
+                        <span class="badge">Linux</span>
+                        <span class="badge">iOS</span>
+                        <span class="badge">Android</span>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem;">
+                    <h3 style="color: #8b949e; margin-bottom: 0.5rem;">Languages</h3>
+                    <div>
+                        <span class="badge">PowerShell</span>
+                        <span class="badge">Bash</span>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem;">
+                    <h3 style="color: #8b949e; margin-bottom: 0.5rem;">Tools & Technologies</h3>
+                    <div>
+                        <span class="badge">Microsoft Intune</span>
+                        <span class="badge">SCCM/MECM</span>
+                        <span class="badge">Azure AD</span>
+                        <span class="badge">Jamf Pro</span>
+                        <span class="badge">Microsoft Graph API</span>
+                        <span class="badge">Jira</span>
+                        <span class="badge">Confluence</span>
+                        <span class="badge">Bitbucket</span>
+                        <span class="badge">GitHub</span>
+                        <span class="badge">Jenkins</span>
+                        <span class="badge">Power BI</span>
+                        <span class="badge">Splunk</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <h2>Certifications</h2>
+                <div>
+                    <span class="badge">Microsoft 365 Certified: Administrator Expert</span>
+                    <span class="badge">Microsoft 365 Certified: Endpoint Administrator Associate</span>
+                    <span class="badge">Jamf 200 Certified Tech</span>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <h2>Languages Spoken</h2>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="info-label">English:</span>
+                        <span class="info-value">Native/Bilingual</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Spanish:</span>
+                        <span class="info-value">Native/Bilingual</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <h2>Work Experience</h2>
+                
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <div>
+                            <div class="experience-title">Senior IT Systems Engineer</div>
+                            <div class="experience-company">SpaceX</div>
+                        </div>
+                        <div class="experience-period">Apr 2024 - Present</div>
+                    </div>
+                    <ul class="highlights">
+                        <li>Automated packaging for 50+ Windows apps, saving $500K annually</li>
+                        <li>Created custom app request workflow for Jamf and Intune</li>
+                        <li>Built Intune rollout dashboards via PowerShell + Graph + Jenkins</li>
+                        <li>Automated SCCM cleanup to avoid storage outages</li>
+                        <li>Implemented MDM cert renewal alerts to prevent device loss</li>
+                        <li>Developed Azure dynamic group emulation for filtering gaps</li>
+                    </ul>
+                </div>
+                
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <div>
+                            <div class="experience-title">IT Systems Engineer</div>
+                            <div class="experience-company">SpaceX</div>
+                        </div>
+                        <div class="experience-period">Apr 2020 - Apr 2024</div>
+                    </div>
+                    <ul class="highlights">
+                        <li>Automated application lifecycle in SCCM using Jenkins and PowerShell</li>
+                        <li>Deployed Intune MDM with advanced security policies</li>
+                        <li>Integrated Graph API and Jenkins for cloud orchestration</li>
+                    </ul>
+                </div>
+                
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <div>
+                            <div class="experience-title">Systems Engineer (Intune/SCCM)</div>
+                            <div class="experience-company">Jabil</div>
+                        </div>
+                        <div class="experience-period">Mar 2019 - Apr 2020</div>
+                    </div>
+                    <ul class="highlights">
+                        <li>Led endpoint M&A rollout across US and Europe (3000+ devices)</li>
+                        <li>Reduced provisioning time by 80% with PowerShell and SCCM</li>
+                        <li>Built auditing GUI that cut audit time by 90%</li>
+                    </ul>
+                </div>
+                
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <div>
+                            <div class="experience-title">Programmer Analyst I</div>
+                            <div class="experience-company">Jabil</div>
+                        </div>
+                        <div class="experience-period">May 2018 - Mar 2019</div>
+                    </div>
+                    <ul class="highlights">
+                        <li>Provisioned Docker EE infra with VSTS CI/CD</li>
+                        <li>Integrated AWS/Azure hybrid deployments</li>
+                        <li>Built monitoring stack using Prometheus & Grafana</li>
+                    </ul>
+                </div>
+                
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <div>
+                            <div class="experience-title">Desktop Support Technician II</div>
+                            <div class="experience-company">Jabil</div>
+                        </div>
+                        <div class="experience-period">May 2017 - May 2018</div>
+                    </div>
+                    <ul class="highlights">
+                        <li>Supported 400+ users with SCCM imaging and automation</li>
+                        <li>Reduced SLA breaches with scripting automations</li>
+                        <li>Participated in on-call rotation and user training</li>
+                    </ul>
+                </div>
+                
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <div>
+                            <div class="experience-title">IT Support Technician Level 2</div>
+                            <div class="experience-company">Synergy Technology Solutions LLC</div>
+                        </div>
+                        <div class="experience-period">Apr 2016 - Apr 2017</div>
+                    </div>
+                    <ul class="highlights">
+                        <li>Monitored and supported 35+ client networks</li>
+                        <li>Maintained backup/recovery systems and change requests</li>
+                        <li>Led troubleshooting for network and software issues</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="info-section">
+                <h2>Education</h2>
+                
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <div>
+                            <div class="experience-title">Associate of Science</div>
+                            <div class="experience-company">Hillsborough Community College</div>
+                            <div style="color: #8b949e;">Network Administration</div>
+                        </div>
+                        <div class="experience-period">2016-2019</div>
+                    </div>
+                </div>
+                
+                <div class="experience-item">
+                    <div class="experience-header">
+                        <div>
+                            <div class="experience-title">High School Diploma (with Honors)</div>
+                            <div class="experience-company">Hillsborough High School</div>
+                        </div>
+                        <div class="experience-period">2006-2009</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-powershell.min.js"></script>
+    <script>
+        function copyCode() {
+            const code = document.getElementById('powershell-code').textContent;
+            navigator.clipboard.writeText(code).then(() => {
+                const button = document.querySelector('.copy-button');
+                button.textContent = 'Copied!';
+                button.classList.add('copied');
+                setTimeout(() => {
+                    button.textContent = 'Copy';
+                    button.classList.remove('copied');
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>
