@@ -4,6 +4,10 @@
 
 > Endpoint Platform Engineer passionate about automation and system administration, focused on streamlining IT operations and enhancing security through modern tooling and practices.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000" alt="Profile Views" />
+</p>
+
 ## 🔬 Latest Project
 
 [📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)
