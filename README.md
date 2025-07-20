@@ -41,6 +41,8 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+[WinGet Without WinGet: Building a Cross-Platform Package Manifest Fetcher](https://www.jorgeasaur.us/winget-without-winget-building-a-cross-platform-package-manifest-fetcher/)
+
 [Supercharge Microsoft Graph API Data Retrieval with PowerShell Batch Requests](https://www.jorgeasaur.us/supercharge-microsoft-graph-api-data-retrieval-with-powershell-batch-requests/)
 
 [Are you even good enough to have Imposter Syndrome?](https://www.jorgeasaur.us/are-you-even-good-enough-to-have-imposter-syndrome/)
