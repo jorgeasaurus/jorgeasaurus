@@ -10,13 +10,13 @@
 
 ## 🔬 Latest Project
 
-[📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)
+[🔄 WinGet-Manifest-Fetcher](https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jorgeasaurus/Intune-Snapshot-Recovery/refs/heads/main/logo.png" alt="Intune-Snapshot-Recovery Logo" width="800" style="margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/jorgeasaurus/WinGet-Manifest-Fetcher/refs/heads/main/logo.png" alt="WinGet-Manifest-Fetcher Logo" width="800" style="margin-bottom: 20px;">
 </div>
 
-> A toolkit for backing up, restoring, and managing Microsoft Intune tenant configurations using Github Actions and PowerShell scripts.
+> A PowerShell module that retrieves installer information from WinGet manifests directly from the microsoft/winget-pkgs repository without requiring the WinGet client to be installed.
 
 **🌐 [View Interactive Portfolio](https://jorgeasaurus.github.io/jorgeasaurus/)**
 
