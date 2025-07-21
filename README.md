@@ -8,6 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000" alt="Profile Views" />
 </p>
 
+<!-- GITHUB-ACTIVITY:START -->
+<!-- GITHUB-ACTIVITY:END -->
+
 ## 🔬 Latest Project
 
 [🔄 WinGet-Manifest-Fetcher](https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher)
