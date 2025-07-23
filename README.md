@@ -10,7 +10,7 @@
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-07-22 14:39:49 UTC -->
+<!-- Last Updated: 2025-07-23 02:47:58 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Total_Repos-43-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-90-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-970-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-997-purple?style=for-the-badge)
 
 </div>
 
@@ -70,8 +70,8 @@
 
 | Repository | Total Clones | Unique Clones |
 |------------|-------------|---------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 365 | 175 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 180 | 86 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 379 | 180 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 189 | 89 |
 | [Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery) | 159 | 108 |
 
 ## 📅 Recent Activity
@@ -80,11 +80,11 @@
 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 2 |
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 0 |
-| [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 2 |
+| [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 | [WinGet-Manifest-Fetcher](https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher) | 2 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [MgBatchRequest](https://github.com/jorgeasaurus/MgBatchRequest) | 6 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 3 |
+| [MgBatchRequest](https://github.com/jorgeasaurus/MgBatchRequest) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 3 |
 
 ---
 
