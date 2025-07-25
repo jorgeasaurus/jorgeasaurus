@@ -10,16 +10,16 @@
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-07-25 02:47:15 UTC -->
+<!-- Last Updated: 2025-07-25 15:20:51 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![](https://img.shields.io/badge/Total_Repos-43-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-91-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-93-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-1.0K-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-971-purple?style=for-the-badge)
 
 </div>
 
@@ -70,9 +70,9 @@
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 433 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 220 |
-| [Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery) | 77 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 448 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 193 |
+| [Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery) | 74 |
 
 ## 📅 Recent Activity
 
@@ -80,10 +80,10 @@
 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 0 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 2 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [WinGet-Manifest-Fetcher](https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher) | 4 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [WinGet-Manifest-Fetcher](https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher) | 5 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 1 |
 | [MgBatchRequest](https://github.com/jorgeasaurus/MgBatchRequest) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 3 |
 
 ---
