@@ -10,7 +10,7 @@
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-07-24 15:49:38 UTC -->
+<!-- Last Updated: 2025-07-25 02:47:15 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -70,9 +70,9 @@
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 419 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 210 |
-| [Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery) | 111 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 433 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 220 |
+| [Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery) | 77 |
 
 ## 📅 Recent Activity
 
@@ -80,9 +80,9 @@
 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
-| [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 0 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 2 |
+| [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 | [WinGet-Manifest-Fetcher](https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher) | 4 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 | [MgBatchRequest](https://github.com/jorgeasaurus/MgBatchRequest) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 3 |
 
