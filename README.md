@@ -10,7 +10,7 @@
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-07-27 00:56:00 UTC -->
+<!-- Last Updated: 2025-07-27 02:53:45 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Total_Repos-43-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-96-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-830-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-841-purple?style=for-the-badge)
 
 </div>
 
@@ -70,9 +70,9 @@
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 440 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 182 |
-| [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | 61 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 447 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 195 |
+| [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | 62 |
 
 ## 📅 Recent Activity
 
@@ -80,8 +80,8 @@
 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
-| [WinGet-Manifest-Fetcher](https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 3 |
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
+| [WinGet-Manifest-Fetcher](https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 3 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 3 |
 | [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | 2 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 | [MgBatchRequest](https://github.com/jorgeasaurus/MgBatchRequest) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 3 |
