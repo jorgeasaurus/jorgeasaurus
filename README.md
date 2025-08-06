@@ -10,7 +10,7 @@
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-08-05 02:52:05 UTC -->
+<!-- Last Updated: 2025-08-06 02:50:57 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Total_Repos-45-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-96-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-773-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-758-purple?style=for-the-badge)
 
 </div>
 
@@ -70,9 +70,9 @@
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 416 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 191 |
-| [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | 35 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 418 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 175 |
+| [GithubRepoActivity](https://github.com/jorgeasaurus/GithubRepoActivity) | 31 |
 
 ## 📅 Recent Activity
 
@@ -82,9 +82,9 @@
 |------------|--------------|----------|-------|
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 3 |
-| [IntuneAssignmentChecker](https://github.com/jorgeasaurus/IntuneAssignmentChecker) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 1 |
-| [IntuneAppFactory](https://github.com/jorgeasaurus/IntuneAppFactory) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [IntuneAssignmentChecker](https://github.com/jorgeasaurus/IntuneAssignmentChecker) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 1 |
+| [IntuneAppFactory](https://github.com/jorgeasaurus/IntuneAppFactory) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | 2 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
 
