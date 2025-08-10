@@ -10,7 +10,7 @@
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-08-09 15:47:58 UTC -->
+<!-- Last Updated: 2025-08-10 02:52:33 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Total_Repos-47-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-100-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-961-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-1.0K-purple?style=for-the-badge)
 
 </div>
 
@@ -70,9 +70,9 @@
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 424 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 196 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 135 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 429 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 189 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 165 |
 
 ## 📅 Recent Activity
 
@@ -80,11 +80,11 @@
 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 4 |
 | [IntuneAppFactory](https://github.com/jorgeasaurus/IntuneAppFactory) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 3 |
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
-| [IntuneAssignmentChecker](https://github.com/jorgeasaurus/IntuneAssignmentChecker) | 4 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 1 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 3 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 4 |
+| [IntuneAssignmentChecker](https://github.com/jorgeasaurus/IntuneAssignmentChecker) | 5 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 1 |
 
 ---
 
