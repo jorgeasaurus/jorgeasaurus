@@ -8,9 +8,16 @@
 
 > Enterprise-scale endpoint management through intelligent automation and strategic innovation.
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000" alt="Profile Views" />
 </p>
+
+## 📊 GitHub Metrics
+
+![GitHub Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+
+![Notable Contributions](./metrics.plugin.notable.indepth.svg)
+
 
 ## Featured Projects
 
@@ -48,9 +55,6 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 - **80%** reduction in device provisioning time
 - **99.9%** compliance rate across all platforms
 
-## 📊 GitHub Metrics
-
-![GitHub Calendar](./metrics.plugin.isocalendar.fullyear.svg)
 
 ## Recent Publications
 
