@@ -26,11 +26,8 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 ## Professional Certifications
 
 [![Microsoft 365 Endpoint Administrator](https://img.shields.io/badge/Microsoft_365-Endpoint_Administrator-0078D4?style=flat-square&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/JorgeSuarez-7408/A2B291647B02D103?sharingId=5EFF7C32EF47CA0D)
-
 [![Microsoft 365 Administrator Expert](https://img.shields.io/badge/Microsoft_365-Administrator_Expert-0078D4?style=flat-square&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/JorgeSuarez-7408/F41320F517848E99?sharingId=5EFF7C32EF47CA0D)
-
 [![Jamf 200 Certified](https://img.shields.io/badge/Jamf-200_Certified-black?style=flat-square&logo=apple)](https://account.jamf.com/training-courses/certificate/tVCte1XUW74S0_U994fQCg)
-
 [![Jamf 100 Associate](https://img.shields.io/badge/Jamf-100_Associate-black?style=flat-square&logo=apple)](https://www.credly.com/badges/ff9ab26b-6b3d-4968-99cb-4d00b63b8411/public_url)
 
 ## Core Competencies
@@ -48,6 +45,12 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 - **10,000+** endpoints managed across Windows, macOS, iOS, Android
 - **$500K+** annual savings through process automation
+- **80%** reduction in device provisioning time
+- **99.9%** compliance rate across all platforms
+
+## 📊 GitHub Metrics
+
+![GitHub Calendar](./metrics.plugin.isocalendar.fullyear.svg)
 
 ## Recent Publications
 
