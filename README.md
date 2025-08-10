@@ -4,7 +4,7 @@
 
 # Jorge Suarez
 
-**Senior IT Systems Engineer** | Endpoint Platform Engineering | Automation Architecture
+**Endpoint Platform Engineer** | Endpoint Platform Engineering | Automation Architecture
 
 > Enterprise-scale endpoint management through intelligent automation and strategic innovation.
 
