@@ -14,9 +14,11 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgeasaurus&show_icons=true&count_private=true&hide_border=true)
 
-![Notable Contributions](./metrics.plugin.notable.indepth.svg)
+![Github Repo Info](./metrics.classic.svg)
+
+![GitHub Calendar](./metrics.plugin.isocalendar.fullyear.svg)
 
 
 ## Featured Projects
@@ -37,16 +39,40 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 [![Jamf 200 Certified](https://img.shields.io/badge/Jamf-200_Certified-black?style=flat-square&logo=apple)](https://account.jamf.com/training-courses/certificate/tVCte1XUW74S0_U994fQCg)
 [![Jamf 100 Associate](https://img.shields.io/badge/Jamf-100_Associate-black?style=flat-square&logo=apple)](https://www.credly.com/badges/ff9ab26b-6b3d-4968-99cb-4d00b63b8411/public_url)
 
-## Core Competencies
+## 🛠️ Tech Stack
 
-**Platform Management**
-- SCCM/MECM · Microsoft Intune · Jamf Pro · Azure AD/Entra ID
+**Languages & Scripting**
 
-**Automation & DevOps**
-- PowerShell · Microsoft Graph API · GitHub Actions · Jenkins · Docker
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Security & Compliance**
-- Microsoft Defender · Conditional Access · Zero-Trust Architecture · Splunk
+**Platform & Device Management**
+
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Jamf](https://img.shields.io/badge/Jamf_Pro-000000?style=flat-square&logo=apple&logoColor=white)
+![SCCM](https://img.shields.io/badge/SCCM/MECM-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AD/Entra-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**DevOps & Automation**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Security & Monitoring**
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+**Operating Systems**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ## Impact Metrics
 

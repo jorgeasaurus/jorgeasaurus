@@ -24,10 +24,7 @@ jobs:
       
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.notable.indepth.svg
+          filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          
+          base: header, repositories
+          plugin_lines: yes
