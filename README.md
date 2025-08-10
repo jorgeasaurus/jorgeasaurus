@@ -16,11 +16,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgeasaurus&show_icons=true&count_private=true&hide_border=true)
 
-![Github Repo Info](./metrics.classic.svg)
-
-![GitHub Calendar](./metrics.plugin.isocalendar.fullyear.svg)
-
-
 ## Featured Projects
 
 ### [🚀 FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell)
