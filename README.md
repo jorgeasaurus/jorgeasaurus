@@ -95,14 +95,14 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-08-11 02:50:51 UTC -->
+<!-- Last Updated: 2025-08-12 02:40:14 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![](https://img.shields.io/badge/Total_Repos-47-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-100-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-101-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Clones-1.1K-purple?style=for-the-badge)
 
@@ -131,6 +131,11 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 </tr>
 <tr>
 <td>
+  <a href="https://github.com/jorgeasaurus/FleetDM-PowerShell">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=FleetDM-PowerShell&theme=dark&hide_border=true" />
+  </a>
+</td>
+<td>
   <a href="https://github.com/jorgeasaurus/PsJamfBackupRestore">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=PsJamfBackupRestore&theme=dark&hide_border=true" />
   </a>
@@ -138,11 +143,6 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 <td>
   <a href="https://github.com/jorgeasaurus/JamfAssignmentChecker">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=JamfAssignmentChecker&theme=dark&hide_border=true" />
-  </a>
-</td>
-<td>
-  <a href="https://github.com/jorgeasaurus/FleetDM-PowerShell">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=FleetDM-PowerShell&theme=dark&hide_border=true" />
   </a>
 </td>
 </tr>
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 435 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 263 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 165 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 429 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 271 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 187 |
 
 ## 📅 Recent Activity
 
@@ -166,10 +166,10 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 5 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 3 |
-| [graphxray](https://github.com/jorgeasaurus/graphxray) | Today | ![](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logoColor=white) | ⭐ 0 |
+| [graphxray](https://github.com/jorgeasaurus/graphxray) | Yesterday | ![](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logoColor=white) | ⭐ 0 |
 | [IntuneAppFactory](https://github.com/jorgeasaurus/IntuneAppFactory) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 4 |
 
 ---
 
