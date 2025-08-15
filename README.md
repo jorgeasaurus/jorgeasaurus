@@ -95,16 +95,16 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-08-14 02:42:28 UTC -->
+<!-- Last Updated: 2025-08-15 02:43:35 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![](https://img.shields.io/badge/Total_Repos-47-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Repos-48-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-102-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-1.2K-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-1.1K-purple?style=for-the-badge)
 
 </div>
 
@@ -155,8 +155,8 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 441 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 287 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 409 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 288 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 198 |
 
 ## 📅 Recent Activity
@@ -168,8 +168,8 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 6 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 3 |
-| [PowerShell](https://github.com/jorgeasaurus/PowerShell) | Today | ![](https://img.shields.io/badge/-C#-178600?style=flat-square&logoColor=white) | ⭐ 0 |
-| [graphxray](https://github.com/jorgeasaurus/graphxray) | 3 days ago | ![](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logoColor=white) | ⭐ 0 |
+| [PsCoinMarketCap](https://github.com/jorgeasaurus/PsCoinMarketCap) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [PowerShell](https://github.com/jorgeasaurus/PowerShell) | Yesterday | ![](https://img.shields.io/badge/-C#-178600?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
 
