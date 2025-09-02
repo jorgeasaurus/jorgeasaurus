@@ -95,7 +95,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-09-01 02:45:07 UTC -->
+<!-- Last Updated: 2025-09-02 02:38:15 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -104,7 +104,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 ![](https://img.shields.io/badge/Total_Repos-49-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-102-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-869-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-870-purple?style=for-the-badge)
 
 </div>
 
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 465 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 272 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 49 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 462 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 271 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 48 |
 
 ## 📅 Recent Activity
 
