@@ -95,7 +95,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-09-22 02:39:14 UTC -->
+<!-- Last Updated: 2025-09-23 02:34:58 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -104,7 +104,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 ![](https://img.shields.io/badge/Total_Repos-49-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-106-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-889-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-894-purple?style=for-the-badge)
 
 </div>
 
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 490 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 236 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 52 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 498 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 234 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 50 |
 
 ## 📅 Recent Activity
 
@@ -168,8 +168,8 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 6 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
-| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [JamfAssignmentChecker](https://github.com/jorgeasaurus/JamfAssignmentChecker) | 5 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 5 |
+| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [JamfAssignmentChecker](https://github.com/jorgeasaurus/JamfAssignmentChecker) | 6 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 5 |
 
 ---
 
