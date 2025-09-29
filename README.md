@@ -95,16 +95,16 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-09-28 02:35:43 UTC -->
+<!-- Last Updated: 2025-09-29 02:34:18 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![](https://img.shields.io/badge/Total_Repos-49-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Repos-50-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-106-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-903-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-874-purple?style=for-the-badge)
 
 </div>
 
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 495 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 199 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 52 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 482 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 196 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 53 |
 
 ## 📅 Recent Activity
 
@@ -165,11 +165,11 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
+| [JamfAssignmentChecker](https://github.com/jorgeasaurus/JamfAssignmentChecker) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 5 |
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 6 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
-| [graphxray](https://github.com/jorgeasaurus/graphxray) | 2 days ago | ![](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logoColor=white) | ⭐ 0 |
-| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | 6 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [graphxray](https://github.com/jorgeasaurus/graphxray) | 3 days ago | ![](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
 
