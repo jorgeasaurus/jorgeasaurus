@@ -4,7 +4,7 @@
 
 # Jorge Suarez
 
-**Endpoint Platform Engineer** | Endpoint Platform Engineering | Automation Architecture
+**Endpoint Platform Engineer** | Mobile Device Management | Automation Architecture
 
 > Enterprise-scale endpoint management through intelligent automation and strategic innovation.
 
