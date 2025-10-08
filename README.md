@@ -95,7 +95,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-10-07 02:31:24 UTC -->
+<!-- Last Updated: 2025-10-08 02:31:45 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -104,7 +104,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 ![](https://img.shields.io/badge/Total_Repos-51-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-107-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-16-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-833-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-834-purple?style=for-the-badge)
 
 </div>
 
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 402 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 209 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 54 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 400 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 216 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 52 |
 
 ## 📅 Recent Activity
 
@@ -168,8 +168,8 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 6 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
-| [Microsoft-Intune-Cookbook](https://github.com/jorgeasaurus/Microsoft-Intune-Cookbook) | 2 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [PowerShell](https://github.com/jorgeasaurus/PowerShell) | 2 days ago | ![](https://img.shields.io/badge/-C#-178600?style=flat-square&logoColor=white) | ⭐ 0 |
+| [Microsoft-Intune-Cookbook](https://github.com/jorgeasaurus/Microsoft-Intune-Cookbook) | 3 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [PowerShell](https://github.com/jorgeasaurus/PowerShell) | 3 days ago | ![](https://img.shields.io/badge/-C#-178600?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
 
