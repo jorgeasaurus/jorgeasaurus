@@ -9,22 +9,27 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+      METRICS_TOKEN_SOURCE: ${{ secrets.METRICS_TOKEN != '' && 'METRICS_TOKEN' || 'GITHUB_TOKEN' }}
     steps:
+      - name: Log metrics token source
+        run: echo "Using $METRICS_TOKEN_SOURCE for metrics generation."
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      
+
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
