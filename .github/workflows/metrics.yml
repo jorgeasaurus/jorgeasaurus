@@ -33,3 +33,4 @@ jobs:
           token: ${{ env.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+          plugin_lines_sections: history, repositories
