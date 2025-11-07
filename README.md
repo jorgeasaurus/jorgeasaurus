@@ -95,7 +95,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-11-06 02:36:50 UTC -->
+<!-- Last Updated: 2025-11-07 02:36:32 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 566 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 254 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 75 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 580 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 265 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 77 |
 
 ## 📅 Recent Activity
 
