@@ -95,7 +95,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-11-17 02:37:19 UTC -->
+<!-- Last Updated: 2025-11-18 02:36:36 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 672 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 306 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 68 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 650 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 302 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 64 |
 
 ## 📅 Recent Activity
 
@@ -168,8 +168,8 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
-| [winget-pkgs](https://github.com/jorgeasaurus/winget-pkgs) | 3 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [LinuxSREQuiz](https://github.com/jorgeasaurus/LinuxSREQuiz) | 5 days ago | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 0 |
+| [winget-pkgs](https://github.com/jorgeasaurus/winget-pkgs) | 4 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [LinuxSREQuiz](https://github.com/jorgeasaurus/LinuxSREQuiz) | 6 days ago | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
 
