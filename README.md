@@ -95,7 +95,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-11-20 02:36:15 UTC -->
+<!-- Last Updated: 2025-11-21 02:35:40 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 609 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 299 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 64 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 591 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 290 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 61 |
 
 ## 📅 Recent Activity
 
@@ -168,7 +168,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
-| [winget-pkgs](https://github.com/jorgeasaurus/winget-pkgs) | 6 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [winget-pkgs](https://github.com/jorgeasaurus/winget-pkgs) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 | [LinuxSREQuiz](https://github.com/jorgeasaurus/LinuxSREQuiz) | 1 weeks ago | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
