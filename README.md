@@ -95,7 +95,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-11-23 02:44:11 UTC -->
+<!-- Last Updated: 2025-11-24 02:40:32 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -104,7 +104,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 ![](https://img.shields.io/badge/Total_Repos-57-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-114-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-17-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-979-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-950-purple?style=for-the-badge)
 
 </div>
 
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 543 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 258 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 56 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 526 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 245 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 57 |
 
 ## 📅 Recent Activity
 
@@ -168,7 +168,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
-| [notapkgtool](https://github.com/jorgeasaurus/notapkgtool) | 2 days ago | N/A | ⭐ 0 |
+| [notapkgtool](https://github.com/jorgeasaurus/notapkgtool) | 3 days ago | N/A | ⭐ 0 |
 | [winget-pkgs](https://github.com/jorgeasaurus/winget-pkgs) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
