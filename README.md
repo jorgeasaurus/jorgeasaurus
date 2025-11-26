@@ -95,7 +95,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-11-25 02:37:06 UTC -->
+<!-- Last Updated: 2025-11-26 02:37:32 UTC -->
 
 ## 📊 GitHub Stats
 
@@ -104,7 +104,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 ![](https://img.shields.io/badge/Total_Repos-57-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-114-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-17-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-919-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-875-purple?style=for-the-badge)
 
 </div>
 
@@ -155,8 +155,8 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 501 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 243 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 485 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 238 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 57 |
 
 ## 📅 Recent Activity
@@ -168,7 +168,7 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
-| [notapkgtool](https://github.com/jorgeasaurus/notapkgtool) | 4 days ago | N/A | ⭐ 0 |
+| [notapkgtool](https://github.com/jorgeasaurus/notapkgtool) | 5 days ago | N/A | ⭐ 0 |
 | [winget-pkgs](https://github.com/jorgeasaurus/winget-pkgs) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
