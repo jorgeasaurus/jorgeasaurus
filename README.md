@@ -95,16 +95,16 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-11-26 02:37:32 UTC -->
+<!-- Last Updated: 2025-12-02 19:17:49 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![](https://img.shields.io/badge/Total_Repos-57-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-114-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Repos-59-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-162-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-17-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-875-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-1.1K-purple?style=for-the-badge)
 
 </div>
 
@@ -119,25 +119,25 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
   </a>
 </td>
 <td>
-  <a href="https://github.com/jorgeasaurus/XpMdmExplorer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=XpMdmExplorer&theme=dark&hide_border=true" />
+  <a href="https://github.com/jorgeasaurus/IntuneHydrationKit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=IntuneHydrationKit&theme=dark&hide_border=true" />
   </a>
 </td>
 <td>
-  <a href="https://github.com/jorgeasaurus/Intune-Snapshot-Recovery">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=Intune-Snapshot-Recovery&theme=dark&hide_border=true" />
+  <a href="https://github.com/jorgeasaurus/XpMdmExplorer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=XpMdmExplorer&theme=dark&hide_border=true" />
   </a>
 </td>
 </tr>
 <tr>
 <td>
-  <a href="https://github.com/jorgeasaurus/FleetDM-PowerShell">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=FleetDM-PowerShell&theme=dark&hide_border=true" />
+  <a href="https://github.com/jorgeasaurus/Intune-Snapshot-Recovery">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=Intune-Snapshot-Recovery&theme=dark&hide_border=true" />
   </a>
 </td>
 <td>
-  <a href="https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=WinGet-Manifest-Fetcher&theme=dark&hide_border=true" />
+  <a href="https://github.com/jorgeasaurus/FleetDM-PowerShell">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=FleetDM-PowerShell&theme=dark&hide_border=true" />
   </a>
 </td>
 <td>
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 485 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 238 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 57 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 628 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 237 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 67 |
 
 ## 📅 Recent Activity
 
@@ -165,11 +165,11 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
+| [PSPreworkout](https://github.com/jorgeasaurus/PSPreworkout) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
-| [notapkgtool](https://github.com/jorgeasaurus/notapkgtool) | 5 days ago | N/A | ⭐ 0 |
-| [winget-pkgs](https://github.com/jorgeasaurus/winget-pkgs) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 45 |
 
 ---
 
