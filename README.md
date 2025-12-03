@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./github-header-image.png" alt="Header" />
-</p>
-
-# Jorge Suarez
+# > jorgeasaurus
 
 **Endpoint Platform Engineer** | Mobile Device Management | Automation Architecture
 
@@ -12,20 +8,19 @@
   <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000" alt="Profile Views" />
 </p>
 
-## 📊 GitHub Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgeasaurus&show_icons=true&count_private=true&hide_border=true)
-
 ## Featured Projects
 
-### [🚀 FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell)
-PowerShell module for Fleet Device Management API integration, enabling automated fleet operations and security monitoring.
+### [💧Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)
+PowerShell module that bootstraps Microsoft Intune tenants with boilerplate configurations. .
 
 ### [📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)
 Automated backup and restore toolkit for Microsoft Intune tenant configurations using GitHub Actions.
 
 ### [🍎 PsJamfBackupRestore](https://github.com/jorgeasaurus/PsJamfBackupRestore)
 PowerShell-based solution for backing up and restoring Jamf Pro configurations, ensuring business continuity for macOS management.
+
+### [💻 MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch)
+Interactive Microsoft Graph search tool using console GUI for various Microsoft 365 and Azure AD object types.
 
 ## Professional Certifications
 
@@ -68,18 +63,10 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-## Impact Metrics
-
-- **10,000+** endpoints managed across Windows, macOS, iOS, Android
-- **$500K+** annual savings through process automation
-- **80%** reduction in device provisioning time
-- **99.9%** compliance rate across all platforms
-
-
 ## Recent Publications
 
+- [Finding WMI Usage Before Microsoft Finds It For You](https://www.jorgeasaur.us/finding-wmi-usage-before-microsoft-finds-it-for-you)
 - [Are you even good enough to have Imposter Syndrome?](https://www.jorgeasaur.us/are-you-even-good-enough-to-have-imposter-syndrome/)
-- [Back up (or restore) Jamf Pro objects with PowerShell](https://www.jorgeasaur.us/back-up-or-restore-jamf-pro-objects-with-powershell/)
 
 ## Connect
 
