@@ -95,16 +95,16 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-12-03 02:37:51 UTC -->
+<!-- Last Updated: 2025-12-03 13:31:16 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![](https://img.shields.io/badge/Total_Repos-59-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-166-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-167-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-17-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-1.2K-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-1.8K-purple?style=for-the-badge)
 
 </div>
 
@@ -114,13 +114,13 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 <table>
 <tr>
 <td>
-  <a href="https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=MgConsoleGuiGraphSearch&theme=dark&hide_border=true" />
+  <a href="https://github.com/jorgeasaurus/IntuneHydrationKit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=IntuneHydrationKit&theme=dark&hide_border=true" />
   </a>
 </td>
 <td>
-  <a href="https://github.com/jorgeasaurus/IntuneHydrationKit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=IntuneHydrationKit&theme=dark&hide_border=true" />
+  <a href="https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=MgConsoleGuiGraphSearch&theme=dark&hide_border=true" />
   </a>
 </td>
 <td>
@@ -155,9 +155,9 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 662 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 252 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 74 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 971 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 357 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 113 |
 
 ## 📅 Recent Activity
 
@@ -165,11 +165,11 @@ PowerShell-based solution for backing up and restoring Jamf Pro configurations, 
 
 | Repository | Last Updated | Language | Stars |
 |------------|--------------|----------|-------|
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 5 |
 | [PSPreworkout](https://github.com/jorgeasaurus/PSPreworkout) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 49 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
+| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 50 |
 
 ---
 
