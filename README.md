@@ -82,16 +82,16 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-12-18 02:38:40 UTC -->
+<!-- Last Updated: 2025-12-19 02:39:25 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![](https://img.shields.io/badge/Total_Repos-64-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-202-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Repos-58-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-204-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-25-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-1.5K-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-1.6K-purple?style=for-the-badge)
 
 </div>
 
@@ -128,8 +128,8 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
   </a>
 </td>
 <td>
-  <a href="https://github.com/jorgeasaurus/PsJamfBackupRestore">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=PsJamfBackupRestore&theme=dark&hide_border=true" />
+  <a href="https://github.com/jorgeasaurus/JamfAssignmentChecker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=JamfAssignmentChecker&theme=dark&hide_border=true" />
   </a>
 </td>
 </tr>
@@ -142,9 +142,9 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 622 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 316 |
-| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | 282 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 627 |
+| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | 351 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 310 |
 
 ## 📅 Recent Activity
 
@@ -155,8 +155,8 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 6 |
-| [Open-PSADT](https://github.com/jorgeasaurus/Open-PSADT) | 3 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | 3 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 81 |
+| [DevReadme](https://github.com/jorgeasaurus/DevReadme) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 1 |
+| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 83 |
 
 ---
 
