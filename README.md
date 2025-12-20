@@ -82,14 +82,14 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-12-19 02:39:25 UTC -->
+<!-- Last Updated: 2025-12-20 02:37:16 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![](https://img.shields.io/badge/Total_Repos-58-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-204-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Repos-59-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-207-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-25-green?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Clones-1.6K-purple?style=for-the-badge)
 
@@ -142,9 +142,9 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 627 |
-| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | 351 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 310 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 633 |
+| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | 340 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 313 |
 
 ## 📅 Recent Activity
 
@@ -155,8 +155,8 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 6 |
-| [DevReadme](https://github.com/jorgeasaurus/DevReadme) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 1 |
-| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 83 |
+| [DevReadme](https://github.com/jorgeasaurus/DevReadme) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 4 |
+| [vscode-action](https://github.com/jorgeasaurus/vscode-action) | Yesterday | N/A | ⭐ 0 |
 
 ---
 
