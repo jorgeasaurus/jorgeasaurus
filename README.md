@@ -82,16 +82,16 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2025-12-31 02:41:28 UTC -->
+<!-- Last Updated: 2026-01-01 02:50:35 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![](https://img.shields.io/badge/Total_Repos-67-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-216-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-217-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-26-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-1.8K-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-1.9K-purple?style=for-the-badge)
 
 </div>
 
@@ -142,8 +142,8 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 740 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 331 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 748 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 338 |
 | [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | 182 |
 
 ## 📅 Recent Activity
@@ -155,8 +155,8 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 6 |
-| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 | [DevReadme](https://github.com/jorgeasaurus/DevReadme) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 4 |
+| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
 
 ---
 
