@@ -1,0 +1,97 @@
+name: Fork Sync Checker
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Daily at 6 AM UTC
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  check-forks:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+    steps:
+      - name: Check fork sync status
+        run: |
+          # List of forks to monitor (format: owner/repo)
+          FORKS=(
+            "jorgeasaurus/intune-openbaseline"
+            "jorgeasaurus/intune-my-macs"
+            "jorgeasaurus/IntuneBaselines"
+          )
+
+          for FORK in "${FORKS[@]}"; do
+            echo "Checking $FORK..."
+
+            # Get the parent repo info
+            PARENT=$(gh api "repos/$FORK" --jq '.parent.full_name // empty')
+
+            if [ -z "$PARENT" ]; then
+              echo "  WARNING: $FORK is not a fork or parent not found"
+              continue
+            fi
+
+            echo "  Parent: $PARENT"
+
+            # Get default branches
+            FORK_DEFAULT=$(gh api "repos/$FORK" --jq '.default_branch')
+            PARENT_DEFAULT=$(gh api "repos/$PARENT" --jq '.default_branch')
+
+            # Compare commits
+            COMPARE=$(gh api "repos/$PARENT/compare/$PARENT_DEFAULT...$FORK:$FORK_DEFAULT" 2>/dev/null || echo '{"status":"error"}')
+            STATUS=$(echo "$COMPARE" | jq -r '.status // "error"')
+            BEHIND=$(echo "$COMPARE" | jq -r '.behind_by // 0')
+
+            if [ "$STATUS" = "error" ]; then
+              # Try reverse comparison (fork behind parent)
+              COMPARE=$(gh api "repos/$FORK/compare/$FORK_DEFAULT...$PARENT:$PARENT_DEFAULT" 2>/dev/null || echo '{"status":"error"}')
+              BEHIND=$(echo "$COMPARE" | jq -r '.ahead_by // 0')
+            fi
+
+            echo "  Behind by: $BEHIND commits"
+
+            if [ "$BEHIND" -gt 0 ]; then
+              echo "  Fork is behind! Creating issue..."
+
+              # Check if an open issue already exists
+              EXISTING=$(gh issue list --repo "$FORK" --state open --search "Fork is behind upstream" --json number --jq '.[0].number // empty')
+
+              if [ -n "$EXISTING" ]; then
+                echo "  Issue #$EXISTING already exists, adding comment..."
+                gh issue comment "$EXISTING" --repo "$FORK" --body "Update: Fork is still **$BEHIND commits** behind upstream \`$PARENT\` as of $(date -u '+%Y-%m-%d %H:%M UTC')."
+              else
+                ISSUE_BODY=$(cat <<EOF
+          ## Sync Required
+
+          Your fork \`$FORK\` is **$BEHIND commits** behind the upstream repository \`$PARENT\`.
+
+          ### How to sync
+
+          **Option 1: GitHub UI**
+          1. Go to your fork's main page
+          2. Click "Sync fork" button
+          3. Click "Update branch"
+
+          **Option 2: Command line**
+          \`\`\`bash
+          git remote add upstream https://github.com/$PARENT.git
+          git fetch upstream
+          git checkout $FORK_DEFAULT
+          git merge upstream/$PARENT_DEFAULT
+          git push
+          \`\`\`
+
+          ---
+          *This issue was automatically created by the Fork Sync Checker workflow.*
+          EOF
+                )
+                gh issue create --repo "$FORK" \
+                  --title "Fork is behind upstream by $BEHIND commits" \
+                  --body "$ISSUE_BODY"
+              fi
+            else
+              echo "  Fork is up to date!"
+            fi
+
+            echo ""
+          done
