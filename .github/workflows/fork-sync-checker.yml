@@ -15,7 +15,7 @@ jobs:
         run: |
           # List of forks to monitor (format: owner/repo)
           FORKS=(
-            "jorgeasaurus/intune-openbaseline"
+            "jorgeasaurus/openintunebaseline"
             "jorgeasaurus/intune-my-macs"
             "jorgeasaurus/IntuneBaselines"
           )
