@@ -10,8 +10,11 @@
 
 ## Featured Projects
 
+### [☢️ NukeTune](NukeTune.com)
+Web Based Microsoft Graph powered Bulk deletion tool for Microsoft Intune environments. Reset your tenant by removing devices, apps, policies, and configurations in one operation.
+
 ### [💧Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)
-PowerShell module that bootstraps Microsoft Intune tenants with boilerplate configurations. .
+PowerShell module that bootstraps Microsoft Intune tenants with boilerplate configurations.
 
 ### [📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)
 Automated backup and restore toolkit for Microsoft Intune tenant configurations using GitHub Actions.
