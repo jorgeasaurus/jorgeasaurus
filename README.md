@@ -85,13 +85,13 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2026-01-31 02:56:29 UTC -->
+<!-- Last Updated: 2026-02-01 03:06:33 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![](https://img.shields.io/badge/Total_Repos-71-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Repos-72-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Stars-238-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-28-green?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Clones-1.6K-purple?style=for-the-badge)
@@ -145,9 +145,9 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 741 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 413 |
-| [DevReadme](https://github.com/jorgeasaurus/DevReadme) | 86 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 737 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 422 |
+| [DevReadme](https://github.com/jorgeasaurus/DevReadme) | 89 |
 
 ## 📅 Recent Activity
 
@@ -157,9 +157,9 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 |------------|--------------|----------|-------|
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 6 |
+| [NukeTune](https://github.com/jorgeasaurus/NukeTune) | Today | ![](https://img.shields.io/badge/-TypeScript-2b7489?style=flat-square&logoColor=white) | ⭐ 0 |
 | [DevReadme](https://github.com/jorgeasaurus/DevReadme) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 4 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | Yesterday | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
-| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | 1 weeks ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 1 |
+| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 2 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 
 ---
 
