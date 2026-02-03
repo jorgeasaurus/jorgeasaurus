@@ -85,14 +85,14 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2026-02-02 03:05:54 UTC -->
+<!-- Last Updated: 2026-02-03 03:03:56 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![](https://img.shields.io/badge/Total_Repos-72-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-240-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-241-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Forks-28-green?style=for-the-badge)
 ![](https://img.shields.io/badge/Total_Clones-1.7K-purple?style=for-the-badge)
 
@@ -146,8 +146,8 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 | Repository | Total Clones |
 |------------|-------------|
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 755 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 444 |
-| [DevReadme](https://github.com/jorgeasaurus/DevReadme) | 91 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 446 |
+| [DevReadme](https://github.com/jorgeasaurus/DevReadme) | 95 |
 
 ## 📅 Recent Activity
 
@@ -157,9 +157,9 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 |------------|--------------|----------|-------|
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 6 |
+| [intune-my-macs](https://github.com/jorgeasaurus/intune-my-macs) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [NukeTune](https://github.com/jorgeasaurus/NukeTune) | Today | ![](https://img.shields.io/badge/-TypeScript-2b7489?style=flat-square&logoColor=white) | ⭐ 2 |
 | [DevReadme](https://github.com/jorgeasaurus/DevReadme) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 4 |
-| [NukeTune](https://github.com/jorgeasaurus/NukeTune) | Yesterday | ![](https://img.shields.io/badge/-TypeScript-2b7489?style=flat-square&logoColor=white) | ⭐ 1 |
-| [FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell) | 3 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 7 |
 
 ---
 
