@@ -1,6 +1,6 @@
 # > jorgeasaurus
 
-**Endpoint Platform Engineer** | Mobile Device Management | Automation Architecture
+**Endpoint Platform Engineer** | Microsoft MVP - PowerShell | Mobile Device Management | Automation Architecture
 
 > Enterprise-scale endpoint management through intelligent automation and strategic innovation.
 
@@ -10,8 +10,11 @@
 
 ## Featured Projects
 
+### [☢️ NukeTune](https://www.NukeTune.com)
+Web Based Microsoft Graph powered Bulk deletion tool for Microsoft Intune environments. Reset your tenant by removing devices, apps, policies, and configurations in one operation.
+
 ### [💧Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)
-PowerShell module that bootstraps Microsoft Intune tenants with boilerplate configurations. .
+PowerShell module that bootstraps Microsoft Intune tenants with boilerplate configurations.
 
 ### [📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)
 Automated backup and restore toolkit for Microsoft Intune tenant configurations using GitHub Actions.
@@ -82,16 +85,16 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 <!-- GITHUB-ACTIVITY:START -->
 <!-- GitHub Activity Report - Auto-generated -->
-<!-- Last Updated: 2026-01-24 02:41:21 UTC -->
+<!-- Last Updated: 2026-02-03 03:03:56 UTC -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![](https://img.shields.io/badge/Total_Repos-70-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Stars-232-yellow?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Forks-26-green?style=for-the-badge)
-![](https://img.shields.io/badge/Total_Clones-1.5K-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Repos-72-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Stars-241-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Forks-28-green?style=for-the-badge)
+![](https://img.shields.io/badge/Total_Clones-1.7K-purple?style=for-the-badge)
 
 </div>
 
@@ -128,8 +131,8 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
   </a>
 </td>
 <td>
-  <a href="https://github.com/jorgeasaurus/IntuneDocsAutomation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=IntuneDocsAutomation&theme=dark&hide_border=true" />
+  <a href="https://github.com/jorgeasaurus/JamfAssignmentChecker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeasaurus&repo=JamfAssignmentChecker&theme=dark&hide_border=true" />
   </a>
 </td>
 </tr>
@@ -142,9 +145,9 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 
 | Repository | Total Clones |
 |------------|-------------|
-| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 752 |
-| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 338 |
-| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | 91 |
+| [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | 755 |
+| [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | 446 |
+| [DevReadme](https://github.com/jorgeasaurus/DevReadme) | 95 |
 
 ## 📅 Recent Activity
 
@@ -154,9 +157,9 @@ Interactive Microsoft Graph search tool using console GUI for various Microsoft 
 |------------|--------------|----------|-------|
 | [jorgeasaurus](https://github.com/jorgeasaurus/jorgeasaurus) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 1 |
 | [IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation) | Today | ![](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logoColor=white) | ⭐ 6 |
+| [intune-my-macs](https://github.com/jorgeasaurus/intune-my-macs) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
+| [NukeTune](https://github.com/jorgeasaurus/NukeTune) | Today | ![](https://img.shields.io/badge/-TypeScript-2b7489?style=flat-square&logoColor=white) | ⭐ 2 |
 | [DevReadme](https://github.com/jorgeasaurus/DevReadme) | Today | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 4 |
-| [powershell-profile](https://github.com/jorgeasaurus/powershell-profile) | 5 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 0 |
-| [IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) | 5 days ago | ![](https://img.shields.io/badge/-PowerShell-012456?style=flat-square&logoColor=white) | ⭐ 103 |
 
 ---
 
