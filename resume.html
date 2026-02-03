@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jorge Suarez - Resume</title>
+    <style>
+        :root {
+            --bg: #ffffff;
+            --text: #0f172a;
+            --muted: #475569;
+            --line: #e2e8f0;
+            --chip: #f1f5f9;
+            --accent: #2563eb;
+        }
+
+        * {
+            box-sizing: border-box
+        }
+
+        body {
+            margin: 0;
+            background: var(--bg);
+            color: var(--text);
+            font: 14.5px/1.55 ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none
+        }
+
+        a:hover {
+            color: var(--accent);
+            text-decoration: underline
+        }
+
+        .page {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 40px 22px 60px;
+        }
+
+        header {
+            display: flex;
+            gap: 18px;
+            align-items: flex-start;
+            justify-content: space-between;
+            border-bottom: 1px solid var(--line);
+            padding-bottom: 18px;
+            margin-bottom: 18px;
+        }
+
+        .name {
+            font-size: 28px;
+            font-weight: 750;
+            letter-spacing: -0.02em;
+            margin: 0;
+        }
+
+        .tagline {
+            margin: 6px 0 0;
+            color: var(--muted);
+            font-weight: 560;
+        }
+
+        .meta {
+            text-align: right;
+            color: var(--muted);
+            font-size: 13px;
+            min-width: 260px;
+        }
+
+        .meta div {
+            margin: 2px 0
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 28px;
+            margin-top: 18px;
+        }
+
+        section {
+            margin: 0 0 18px
+        }
+
+        h2 {
+            font-size: 12px;
+            letter-spacing: .12em;
+            text-transform: uppercase;
+            margin: 0 0 10px;
+            color: var(--muted);
+        }
+
+        .summary {
+            margin: 0;
+            color: var(--text);
+        }
+
+        .role {
+            padding: 14px 0;
+            border-top: 1px solid var(--line);
+        }
+
+        .role:first-of-type {
+            border-top: 0;
+            padding-top: 0
+        }
+
+        .rolehead {
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            gap: 12px;
+        }
+
+        .company {
+            font-weight: 720;
+            letter-spacing: -0.01em;
+        }
+
+        .title {
+            color: var(--muted);
+            font-weight: 560;
+            margin-left: 8px;
+        }
+
+        .dates {
+            color: var(--muted);
+            font-size: 13px;
+            white-space: nowrap;
+        }
+
+        ul {
+            margin: 8px 0 0 18px;
+            padding: 0;
+        }
+
+        li {
+            margin: 6px 0;
+            color: var(--text);
+        }
+
+        li span.muted {
+            color: var(--muted)
+        }
+
+        .chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .chip {
+            background: var(--chip);
+            border: 1px solid var(--line);
+            padding: 6px 10px;
+            border-radius: 999px;
+            font-size: 12.5px;
+            color: var(--muted);
+            white-space: nowrap;
+        }
+
+        .small {
+            color: var(--muted);
+            font-size: 13px;
+            margin: 0;
+        }
+
+        .list {
+            display: grid;
+            gap: 10px;
+        }
+
+        .item {
+            padding: 10px 12px;
+            border: 1px solid var(--line);
+            border-radius: 12px;
+        }
+
+        .item b {
+            font-weight: 720
+        }
+
+        .item p {
+            margin: 6px 0 0;
+            color: var(--muted);
+            font-size: 13px
+        }
+
+        .kicker {
+            display: inline-block;
+            margin-top: 8px;
+            color: var(--muted);
+            font-size: 12.5px;
+        }
+
+        /* Print */
+        @media print {
+            :root {
+                --accent: #000000;
+            }
+
+            body {
+                font-size: 12px;
+            }
+
+            .page {
+                padding: 0;
+                max-width: none;
+            }
+
+            a {
+                text-decoration: none;
+            }
+
+            header {
+                margin-bottom: 12px;
+                padding-bottom: 12px;
+            }
+
+            .grid {
+                grid-template-columns: 2fr 1fr;
+                gap: 18px;
+            }
+
+            .chip {
+                padding: 4px 8px;
+            }
+
+            .item {
+                border-color: #d1d5db;
+            }
+        }
+
+        /* Mobile */
+        @media (max-width: 820px) {
+            header {
+                flex-direction: column
+            }
+
+            .meta {
+                text-align: left;
+                min-width: auto
+            }
+
+            .grid {
+                grid-template-columns: 1fr
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main class="page">
+        <header>
+            <div>
+                <h1 class="name">Jorge Suarez</h1>
+                <p class="tagline">Senior / Principal-track IT Systems Engineer - Endpoint &amp; Identity Platform
+                    Engineering</p>
+                <span class="kicker">PowerShell • Microsoft Graph • Intune • Jamf • MECM/SCCM • Entra ID • Jenkins •
+                    Azure</span>
+            </div>
+            <div class="meta">
+                <div>Seattle, WA</div>
+                <div><a href="mailto:jorge2990@live.com">jorge2990@live.com</a></div>
+                <div><a href="https://www.linkedin.com/in/jorgeasaurus" target="_blank"
+                        rel="noreferrer">linkedin.com/in/jorgeasaurus</a></div>
+            </div>
+        </header>
+
+        <div class="grid">
+            <!-- LEFT COLUMN -->
+            <div>
+                <section>
+                    <h2>Summary</h2>
+                    <p class="summary">
+                        Automation-driven systems engineer with 8+ years building and operating secure endpoint and
+                        identity platforms at scale.
+                        Specializes in PowerShell + Microsoft Graph automation, CI/CD-driven operations, and fleet-wide
+                        vulnerability remediation across Windows and macOS.
+                        Turns manual processes into reliable, guardrailed workflows backed by telemetry and clear
+                        documentation.
+                    </p>
+                </section>
+
+                <section>
+                    <h2>Experience</h2>
+
+                    <article class="role">
+                        <div class="rolehead">
+                            <div>
+                                <span class="company">SpaceX</span>
+                                <span class="title">- Senior IT Systems Engineer</span>
+                            </div>
+                            <div class="dates">Apr 2024 - Present</div>
+                        </div>
+                        <ul>
+                            <li>Own endpoint and identity platform architecture workstreams, building automation-first
+                                systems that improve reliability, speed of change, and security posture across the
+                                workstation fleet.</li>
+                            <li>Develop and operate cross-platform workflows integrating Intune, Entra ID, and adjacent
+                                enterprise services to eliminate manual toil and standardize outcomes.</li>
+                            <li>Lead fleet-wide vulnerability remediation initiatives and build dashboards that surface
+                                operational and security trends; mentor junior engineers on standards and design
+                                reviews.</li>
+                        </ul>
+                    </article>
+
+                    <article class="role">
+                        <div class="rolehead">
+                            <div>
+                                <span class="company">SpaceX</span>
+                                <span class="title">- IT Systems Engineer</span>
+                            </div>
+                            <div class="dates">Apr 2020 - Apr 2024</div>
+                        </div>
+                        <ul>
+                            <li>Automated application packaging, deployment, and retirement in MECM using PowerShell and
+                                Jenkins, improving repeatability and reducing cycle time for releases.</li>
+                            <li>Implemented and scaled Intune MDM capabilities (apps, compliance/configuration,
+                                Autopilot, proactive remediation patterns) while automating tenant/device operations via
+                                Microsoft Graph.</li>
+                            <li>Delivered rapid-response security actions for emerging vulnerabilities and partnered
+                                across engineering teams using Jira/Confluence and modern version control workflows.
+                            </li>
+                        </ul>
+                    </article>
+
+                    <article class="role">
+                        <div class="rolehead">
+                            <div>
+                                <span class="company">Jabil</span>
+                                <span class="title">- Systems Engineer (Intune/SCCM)</span>
+                            </div>
+                            <div class="dates">Mar 2019 - Apr 2020</div>
+                        </div>
+                        <ul>
+                            <li>Served as the primary Windows end-user systems engineer during a multinational M&amp;A,
+                                driving endpoint conversion strategy and executing site audits across the US and Europe.
+                            </li>
+                            <li>Orchestrated scripted application deployments for 3,000+ users across 19 facilities and
+                                reduced provisioning time by ~80% through automation.</li>
+                            <li>Built a PowerShell-based auditing tool that reduced audit time by ~90% and supported a
+                                co-managed Intune + SCCM environment for ~75,000 Windows devices.</li>
+                        </ul>
+                    </article>
+
+                    <article class="role">
+                        <div class="rolehead">
+                            <div>
+                                <span class="company">Jabil</span>
+                                <span class="title">- Programmer Analyst I</span>
+                            </div>
+                            <div class="dates">May 2018 - Mar 2019</div>
+                        </div>
+                        <ul>
+                            <li>Provisioned Windows/Linux infrastructure for Docker EE swarms globally and prototyped
+                                internal platform solutions in a developer services organization.</li>
+                            <li>Built CI capabilities and reusable Docker image templates to standardize deployments and
+                                reduce onboarding time for service teams.</li>
+                            <li>Implemented monitoring with Prometheus/Grafana and automated AWS EC2
+                                provisioning/management using Terraform and Ansible.</li>
+                        </ul>
+                    </article>
+
+                    <article class="role">
+                        <div class="rolehead">
+                            <div>
+                                <span class="company">Jabil</span>
+                                <span class="title">- Desktop Support Technician II</span>
+                            </div>
+                            <div class="dates">May 2017 - May 2018</div>
+                        </div>
+                        <ul>
+                            <li>Supported 400+ users across endpoint hardware/software, Office 365, account issues,
+                                printers, and VPN with strong documentation and SLA focus.</li>
+                            <li>Automated repetitive support processes with scripting to increase throughput and
+                                consistency.</li>
+                            <li>Assisted with SCCM packaging/imaging operations, vendor RMAs, and end-user training.
+                            </li>
+                        </ul>
+                    </article>
+
+                    <article class="role">
+                        <div class="rolehead">
+                            <div>
+                                <span class="company">Synergy Technology Solutions LLC</span>
+                                <span class="title">- IT Support Technician Level 2</span>
+                            </div>
+                            <div class="dates">Apr 2016 - Apr 2017</div>
+                        </div>
+                        <ul>
+                            <li>Monitored and supported 35+ customer networks, triaging alerts and managing
+                                incident/change tickets with clear documentation.</li>
+                            <li>Maintained backup/DR systems and participated in planned maintenance to reduce downtime
+                                risk.</li>
+                            <li>Troubleshot hardware/software/network issues and contributed to network/security
+                                standards and planning.</li>
+                        </ul>
+                    </article>
+
+                </section>
+
+                <section>
+                    <h2>Open Source &amp; Community</h2>
+                    <div class="list">
+                        <div class="item">
+                            <b>NukeTune</b>
+                            <p>Web Based Microsoft Graph powered Bulk deletion tool for Microsoft Intune environments.</p>
+                        </div>
+                        <div class="item">
+                            <b>Intune Hydration Kit</b>
+                            <p>PowerShell tooling to bootstrap Intune tenants with baseline configurations and
+                                repeatable setup patterns.</p>
+                        </div>
+                        <div class="item">
+                            <b>Intune-Snapshot-Recovery</b>
+                            <p>Automated Intune configuration backup/restore workflows using GitHub Actions.</p>
+                        </div>
+                        <div class="item">
+                            <b>MgConsoleGuiGraphSearch</b>
+                            <p>Console UI for browsing and searching Microsoft Graph objects.</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <!-- RIGHT COLUMN -->
+            <aside>
+                <section>
+                    <h2>Skills</h2>
+                    <div class="chips">
+                        <span class="chip">PowerShell</span>
+                        <span class="chip">Microsoft Graph API</span>
+                        <span class="chip">Microsoft Intune</span>
+                        <span class="chip">Microsoft Entra ID</span>
+                        <span class="chip">MECM / SCCM</span>
+                        <span class="chip">Jamf Pro</span>
+                        <span class="chip">Jenkins</span>
+                        <span class="chip">Power BI</span>
+                        <span class="chip">Conditional Access</span>
+                        <span class="chip">Splunk</span>
+                        <span class="chip">Vulnerability Remediation</span>
+                        <span class="chip">Dashboards / Telemetry</span>
+                    </div>
+                </section>
+
+                <section>
+                    <h2>Awards</h2>
+                    <div class="list">
+                        <div class="item"><b>Microsoft Most Valuable Professional (MVP)</b>
+                            <p>2026-2027</p>
+                        </div>
+                        <div class="item"><b>Kickass Award</b>
+                            <p>2x</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <h2>Certifications</h2>
+                    <div class="list">
+                        <div class="item"><b>Jamf Certified Tech</b></div>
+                        <div class="item"><b>Jamf 200 Certified</b></div>
+                        <div class="item"><b>Microsoft 365 Certified: Administrator Expert</b></div>
+                        <div class="item"><b>Microsoft 365 Certified: Modern Desktop Administrator Associate</b></div>
+                    </div>
+                </section>
+
+                <section>
+                    <h2>Education</h2>
+                    <div class="item">
+                        <b>Hillsborough Community College</b>
+                        <p>Associate's Degree, Computer Programming &amp; Analysis</p>
+                    </div>
+                </section>
+            </aside>
+        </div>
+    </main>
+</body>
+
+</html>
