@@ -8,6 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000" alt="Profile Views" />
 </p>
 
+<img src="MVP_Badge_Horizontal_Secondary_White_RGB.png" alt="Microsoft MVP" width="250" />
+
+
 ## Featured Projects
 
 ### [☢️ NukeTune](https://www.NukeTune.com)
