@@ -47,6 +47,8 @@ LINKS
 | Project | Description | Stack |
 | :--- | :--- | :---: |
 | **[📇 MgGraphIndex](https://github.com/jorgeasaurus/MgGraphIndex)** | Searchable reference for all 24,000+ Microsoft Graph PowerShell cmdlets — daily auto-updated | `HTML` |
+| **[📇 MecmIndex](https://github.com/jorgeasaurus/MecmIndex)** | Searchable reference for all MECM/SCCM PowerShell cmdlets — fuzzy search, themes & keyboard nav | `HTML` |
+| **[📇 AzIndex](https://github.com/jorgeasaurus/AzIndex)** | Searchable reference for all Azure PowerShell cmdlets — syntax highlighting, parameter tables & examples | `HTML` |
 | **[☢️ NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — wipe devices, apps, policies & configs in one shot | `Graph API` |
 | **[💧 Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs in a single command | `PowerShell` |
 | **[📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)** | Automated backup & restore pipeline for Intune tenant configurations | `GitHub Actions` |
