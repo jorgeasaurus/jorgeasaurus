@@ -17,39 +17,14 @@
 
 ---
 
-### `> Get-Help About-Jorge -Full`
-
-```powershell
-NAME
-    Jorge Suarez
-
-SYNOPSIS
-    Endpoint Platform Engineer @ SpaceX | Microsoft MVP - PowerShell
-
-SYNTAX
-    Jorge [-NativeLanguage <English | Spanish>] [-Focus <Automation | Security | EndpointMgmt>]
-
-DESCRIPTION
-    Builds tooling and automation for enterprise-scale endpoint management across
-    Intune, Jamf, SCCM, and Entra ID. Focused on infrastructure-as-code, disaster
-    recovery, and fleet operations at velocity.
-
-LINKS
-    Blog        https://www.jorgeasaur.us
-    GitHub      https://github.com/jorgeasaurus
-    LinkedIn    https://linkedin.com/in/jorgeasaurus
-```
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :---: |
+| **[🤖 agent-skills](https://github.com/jorgeasaurus/agent-skills)** | Reusable Copilot agent skills for PowerShell development workflows | `PowerShell` |
+| **[🏪 WinStoreRip](https://github.com/jorgeasaurus/WinStoreRip)** | Query and download Windows Store app packages from the command line | `PowerShell` |
+| **[📦 WingetIntunePublisher](https://github.com/jorgeasaurus/WingetIntunePublisher)** | Enterprise-grade PowerShell module for automating WinGet app packaging to Intune | `PowerShell` |
 | **[📇 MgGraphIndex](https://github.com/jorgeasaurus/MgGraphIndex)** | Searchable reference for all 24,000+ Microsoft Graph PowerShell cmdlets — daily auto-updated | `HTML` |
-| **[📇 MecmIndex](https://github.com/jorgeasaurus/MecmIndex)** | Searchable reference for all MECM/SCCM PowerShell cmdlets — fuzzy search, themes & keyboard nav | `HTML` |
-| **[📇 AzIndex](https://github.com/jorgeasaurus/AzIndex)** | Searchable reference for all Azure PowerShell cmdlets — syntax highlighting, parameter tables & examples | `HTML` |
-| **[📇 EntraIndex](https://github.com/jorgeasaurus/EntraIndex)** | Searchable reference for all Microsoft Entra PowerShell cmdlets | `HTML` |
 | **[☢️ NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — wipe devices, apps, policies & configs in one shot | `Graph API` |
 | **[💧 Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs in a single command | `PowerShell` |
 | **[📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)** | Automated backup & restore pipeline for Intune tenant configurations | `GitHub Actions` |

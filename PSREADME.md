@@ -23,6 +23,9 @@ $Info = [PSCustomObject]@{
 $Projects = @{
     "Intune-Snapshot-Recovery"  = "$($Info.GitHub)/Intune-Snapshot-Recovery"
     "JamfAssignmentChecker"     = "$($Info.GitHub)/JamfAssignmentChecker"
+    "agent-skills"              = "$($Info.GitHub)/agent-skills"
+    "WinStoreRip"               = "$($Info.GitHub)/WinStoreRip"
+    "WingetIntunePublisher"     = "$($Info.GitHub)/WingetIntunePublisher"
 }
 
 # PLATFORMS
