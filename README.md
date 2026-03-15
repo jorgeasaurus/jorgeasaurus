@@ -28,7 +28,7 @@
 | **[NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — nuke it all in one shot | `Webapp` |
 | **[Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs in a single command | `Pwsh` |
 | **[Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)** | Automated backup & restore pipeline for Intune tenant configurations | `Pwsh` |
-| **[PsJamfBackupRestore](https://github.com/jorgeasaurus/PsJamfBackupRestore)** | PowerShell DR solution for Jamf Pro — version-control macOS management objects | `Pwsh` |
+| **[PsJamfBackupRestore](https://github.com/jorgeasaurus/PsJamfBackupRestore)** | DR solution for Jamf Pro — version-control macOS management objects | `Pwsh` |
 | **[MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch)** | Terminal UI for querying Microsoft 365 & Entra ID via Graph API | `Pwsh` |
 
 ---
