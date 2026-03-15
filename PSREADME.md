@@ -26,6 +26,7 @@ $Projects = @{
     "agent-skills"              = "$($Info.GitHub)/agent-skills"
     "WinStoreRip"               = "$($Info.GitHub)/WinStoreRip"
     "WingetIntunePublisher"     = "$($Info.GitHub)/WingetIntunePublisher"
+    "IntuneDocsAutomation"      = "$($Info.GitHub)/IntuneDocsAutomation"
 }
 
 # PLATFORMS

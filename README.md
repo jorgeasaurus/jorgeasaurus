@@ -24,6 +24,7 @@
 | **[agent-skills](https://github.com/jorgeasaurus/agent-skills)** | Reusable Copilot agent skills for PowerShell development workflows | `Pwsh` |
 | **[WinStoreRip](https://github.com/jorgeasaurus/WinStoreRip)** | Query and download Windows Store app packages from the command line | `Pwsh` |
 | **[WingetIntunePublisher](https://github.com/jorgeasaurus/WingetIntunePublisher)** | PowerShell module for automating WinGet app packaging to Intune | `Pwsh` |
+| **[IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation)** | Editorial-style dashboard that auto-tracks the latest Microsoft Intune updates | `HTML` |
 | **[MgGraphIndex](https://github.com/jorgeasaurus/MgGraphIndex)** | Searchable reference for all 24,000+ Microsoft Graph PowerShell cmdlets | `HTML` |
 | **[NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — nuke it all in one shot | `Webapp` |
 | **[Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs in a single command | `Pwsh` |
