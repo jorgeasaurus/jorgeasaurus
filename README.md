@@ -21,15 +21,15 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :---: |
-| **[🤖 agent-skills](https://github.com/jorgeasaurus/agent-skills)** | Reusable Copilot agent skills for PowerShell development workflows | `PowerShell` |
-| **[🏪 WinStoreRip](https://github.com/jorgeasaurus/WinStoreRip)** | Query and download Windows Store app packages from the command line | `PowerShell` |
-| **[📦 WingetIntunePublisher](https://github.com/jorgeasaurus/WingetIntunePublisher)** | Enterprise-grade PowerShell module for automating WinGet app packaging to Intune | `PowerShell` |
-| **[📇 MgGraphIndex](https://github.com/jorgeasaurus/MgGraphIndex)** | Searchable reference for all 24,000+ Microsoft Graph PowerShell cmdlets — daily auto-updated | `HTML` |
-| **[☢️ NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — wipe devices, apps, policies & configs in one shot | `Graph API` |
-| **[💧 Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs in a single command | `PowerShell` |
-| **[📸 Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)** | Automated backup & restore pipeline for Intune tenant configurations | `GitHub Actions` |
-| **[🍎 PsJamfBackupRestore](https://github.com/jorgeasaurus/PsJamfBackupRestore)** | PowerShell DR solution for Jamf Pro — version-control macOS management objects | `PowerShell` |
-| **[💻 MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch)** | Interactive console GUI for querying Microsoft 365 & Entra ID via Graph API | `PowerShell` |
+| **[agent-skills](https://github.com/jorgeasaurus/agent-skills)** | Reusable Copilot agent skills for PowerShell development workflows | `Pwsh` |
+| **[WinStoreRip](https://github.com/jorgeasaurus/WinStoreRip)** | Query and download Windows Store app packages from the command line | `Pwsh` |
+| **[WingetIntunePublisher](https://github.com/jorgeasaurus/WingetIntunePublisher)** | PowerShell module for automating WinGet app packaging to Intune | `Pwsh` |
+| **[MgGraphIndex](https://github.com/jorgeasaurus/MgGraphIndex)** | Searchable reference for all 24,000+ Microsoft Graph PowerShell cmdlets | `HTML` |
+| **[NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — nuke it all in one shot | `Webapp` |
+| **[Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs in a single command | `Pwsh` |
+| **[Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)** | Automated backup & restore pipeline for Intune tenant configurations | `Pwsh` |
+| **[PsJamfBackupRestore](https://github.com/jorgeasaurus/PsJamfBackupRestore)** | PowerShell DR solution for Jamf Pro — version-control macOS management objects | `Pwsh` |
+| **[MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch)** | Terminal UI for querying Microsoft 365 & Entra ID via Graph API | `Pwsh` |
 
 ---
 
