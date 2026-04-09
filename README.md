@@ -15,12 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000&color=00FF99&style=flat-square&label=Profile+Scans" alt="Profile Views" />
 </div>
 
----
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :---: |
+| **[graphexplorerplus](https://github.com/jorgeasaurus/graphexplorerplus)** | Power-user alternative to Microsoft Graph Explorer with 204 curated samples, permission insights, and 8-language code snippets | `Next.js` |
+| **[errorindex](https://github.com/jorgeasaurus/errorindex)** | Searchable reference for Microsoft error codes across Entra ID, Graph, Intune, SCCM, Exchange, and Windows | `HTML` |
+| **[FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell)** | Native PowerShell interface for managing FleetDM Free Tier hosts, queries, policies, and software inventory | `Pwsh` |
 | **[agent-skills](https://github.com/jorgeasaurus/agent-skills)** | Reusable Copilot agent skills for PowerShell development workflows | `Pwsh` |
 | **[WinStoreRip](https://github.com/jorgeasaurus/WinStoreRip)** | Query and download Windows Store app packages from the command line | `Pwsh` |
 | **[WingetIntunePublisher](https://github.com/jorgeasaurus/WingetIntunePublisher)** | PowerShell module for automating WinGet app packaging to Intune | `Pwsh` |

@@ -21,6 +21,9 @@ $Info = [PSCustomObject]@{
 
 # Latest Projects
 $Projects = @{
+    "graphexplorerplus"         = "$($Info.GitHub)/graphexplorerplus"
+    "errorindex"               = "$($Info.GitHub)/errorindex"
+    "FleetDM-PowerShell"       = "$($Info.GitHub)/FleetDM-PowerShell"
     "Intune-Snapshot-Recovery"  = "$($Info.GitHub)/Intune-Snapshot-Recovery"
     "JamfAssignmentChecker"     = "$($Info.GitHub)/JamfAssignmentChecker"
     "agent-skills"              = "$($Info.GitHub)/agent-skills"
