@@ -2011,10 +2011,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2199747155499368 0,1.2199747155499368 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2199747155499368 1.7,2.2199747155499368 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.908975979772439)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.09102402022756 0,1.09102402022756 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.09102402022756 1.7,2.09102402022756 z"/>
+                            <g transform="translate(-5.1, 8.88621997471555)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.11378002528445 0,1.11378002528445 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.11378002528445 1.7,2.11378002528445 z"/>
                             </g>
                         </g>
                     </g>
