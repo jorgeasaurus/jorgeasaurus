@@ -28,6 +28,7 @@
 | **[WingetIntunePublisher](https://github.com/jorgeasaurus/WingetIntunePublisher)** | PowerShell module for automating WinGet app packaging to Intune | `Pwsh` |
 | **[PwShSummit](https://github.com/jorgeasaurus/PwShSummit)** | Browse the PowerShell + DevOps Global Summit schedule from your terminal. | `Pwsh` |
 | **[PSModuleBrowser](https://github.com/jorgeasaurus/PSModuleBrowser)** | Browse and discover PowerShell modules with a streamlined interface | `Pwsh` |
+| **[InTUI](https://github.com/jorgeasaurus/InTUI)** | PowerShell terminal UI for managing Microsoft Intune resources via Microsoft Graph API | `Pwsh` |
 | **[IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation)** | Editorial-style dashboard that auto-tracks the latest Microsoft Intune updates | `HTML` |
 | **[MgGraphIndex](https://github.com/jorgeasaurus/MgGraphIndex)** | Searchable reference for all 24,000+ Microsoft Graph PowerShell cmdlets | `HTML` |
 | **[NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — nuke it all in one shot | `Webapp` |
