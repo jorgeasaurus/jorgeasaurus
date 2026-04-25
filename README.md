@@ -20,18 +20,18 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :---: |
+| **[Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs| `Pwsh` |
+| **[PSModuleBrowser](https://github.com/jorgeasaurus/PSModuleBrowser)** | Browse and discover PowerShell modules with a streamlined interface | `Pwsh` |
+| **[InTUI](https://github.com/jorgeasaurus/InTUI)** | PowerShell terminal UI for managing Microsoft Intune resources | `Pwsh` |
 | **[graphexplorerplus](https://github.com/jorgeasaurus/graphexplorerplus)** | Power-user alternative to Microsoft Graph Explorer | `Next.js` |
+| **[MgGraphIndex](https://github.com/jorgeasaurus/MgGraphIndex)** | Searchable reference for all 24,000+ Microsoft Graph PowerShell cmdlets | `HTML` |
+| **[NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — nuke it all in one shot | `Webapp` |
 | **[errorindex](https://github.com/jorgeasaurus/errorindex)** | Searchable reference for Microsoft error codes  | `HTML` |
 | **[FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell)** | Native PowerShell interface for managing FleetDM| `Pwsh` |
 | **[agent-skills](https://github.com/jorgeasaurus/agent-skills)** | Reusable Copilot agent skills for PowerShell development workflows | `Pwsh` |
 | **[WinStoreRip](https://github.com/jorgeasaurus/WinStoreRip)** | Query and download Windows Store app packages from the command line | `Pwsh` |
 | **[WingetIntunePublisher](https://github.com/jorgeasaurus/WingetIntunePublisher)** | PowerShell module for automating WinGet app packaging to Intune | `Pwsh` |
-| **[PSModuleBrowser](https://github.com/jorgeasaurus/PSModuleBrowser)** | Browse and discover PowerShell modules with a streamlined interface | `Pwsh` |
-| **[InTUI](https://github.com/jorgeasaurus/InTUI)** | PowerShell terminal UI for managing Microsoft Intune resources via Microsoft Graph API | `Pwsh` |
 | **[IntuneDocsAutomation](https://github.com/jorgeasaurus/IntuneDocsAutomation)** | Editorial-style dashboard that auto-tracks the latest Microsoft Intune updates | `HTML` |
-| **[MgGraphIndex](https://github.com/jorgeasaurus/MgGraphIndex)** | Searchable reference for all 24,000+ Microsoft Graph PowerShell cmdlets | `HTML` |
-| **[NukeTune](https://www.NukeTune.com)** | Web-based Intune bulk deletion — nuke it all in one shot | `Webapp` |
-| **[Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs| `Pwsh` |
 | **[Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)** | Automated backup & restore pipeline for Intune tenant configurations | `Pwsh` |
 | **[PsJamfBackupRestore](https://github.com/jorgeasaurus/PsJamfBackupRestore)** | DR solution for Jamf Pro — version-control macOS management objects | `Pwsh` |
 | **[MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch)** | Terminal UI for querying Microsoft 365 & Entra ID via Graph API | `Pwsh` |
