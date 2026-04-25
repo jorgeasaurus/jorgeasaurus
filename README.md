@@ -20,7 +20,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :---: |
-| **[Intune Hydration Kit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs| `Pwsh` |
+| **[IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit)** | Bootstrap greenfield Intune tenants with boilerplate configs| `Pwsh` |
 | **[PSModuleBrowser](https://github.com/jorgeasaurus/PSModuleBrowser)** | Browse and discover PowerShell modules with a streamlined interface | `Pwsh` |
 | **[InTUI](https://github.com/jorgeasaurus/InTUI)** | PowerShell terminal UI for managing Microsoft Intune resources | `Pwsh` |
 | **[graphexplorerplus](https://github.com/jorgeasaurus/graphexplorerplus)** | Power-user alternative to Microsoft Graph Explorer | `Next.js` |
