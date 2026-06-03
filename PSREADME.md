@@ -3,15 +3,14 @@
 ```powershell
 <#
 .SYNOPSIS
-Senior IT Systems Engineer with expertise in automation, cross-platform device management,
-and infrastructure engineering. Focused on Intune, SCCM, PowerShell, and cloud-first strategies
-for scale, security, and simplicity.
+Endpoint Platform Engineer and Microsoft MVP focused on PowerShell automation,
+Microsoft Intune, Microsoft Graph, Jamf, and fleet operations at scale.
 #>
 
 # PERSONAL INFORMATION
 $Info = [PSCustomObject]@{
     Name        = 'Jorge Suarez'
-    Title       = 'Senior IT Systems Engineer'
+    Title       = 'Endpoint Platform Engineer'
     Email       = 'jorge2990@live.com'
     Location    = 'Greater Seattle Area'
     LinkedIn    = 'https://www.linkedin.com/in/jorgeasaurus'
@@ -19,19 +18,17 @@ $Info = [PSCustomObject]@{
     Blog        = 'https://jorgeasaur.us'
 }
 
-# Latest Projects
+# Featured Projects
 $Projects = @{
+    "IntuneHydrationKit-Module" = "$($Info.GitHub)/IntuneHydrationKit"
+    "IntuneHydrationKit-WebApp" = "$($Info.GitHub)/IntuneHydrationKit-WebApp"
+    "InTUI"                    = "$($Info.GitHub)/InTUI"
+    "MgConsoleGuiGraphSearch"  = "$($Info.GitHub)/MgConsoleGuiGraphSearch"
     "graphexplorerplus"         = "$($Info.GitHub)/graphexplorerplus"
-    "errorindex"               = "$($Info.GitHub)/errorindex"
-    "FleetDM-PowerShell"       = "$($Info.GitHub)/FleetDM-PowerShell"
-    "PwShSummit"               = "$($Info.GitHub)/PwShSummit"
-    "PSModuleBrowser"          = "$($Info.GitHub)/PSModuleBrowser"
-    "Intune-Snapshot-Recovery"  = "$($Info.GitHub)/Intune-Snapshot-Recovery"
-    "JamfAssignmentChecker"     = "$($Info.GitHub)/JamfAssignmentChecker"
-    "agent-skills"              = "$($Info.GitHub)/agent-skills"
-    "WinStoreRip"               = "$($Info.GitHub)/WinStoreRip"
     "WingetIntunePublisher"     = "$($Info.GitHub)/WingetIntunePublisher"
-    "IntuneDocsAutomation"      = "$($Info.GitHub)/IntuneDocsAutomation"
+    "Intune-Snapshot-Recovery"  = "$($Info.GitHub)/Intune-Snapshot-Recovery"
+    "XpMdmExplorer"             = "$($Info.GitHub)/XpMdmExplorer"
+    "FleetDM-PowerShell"        = "$($Info.GitHub)/FleetDM-PowerShell"
 }
 
 # PLATFORMS
@@ -42,14 +39,16 @@ $Languages = @('PowerShell', 'Bash')
 
 # TOOLS & TECHNOLOGIES
 $Tools = @(
-    'Microsoft Intune', 'SCCM/MECM', 'Azure AD', 'Jamf Pro',
-    'Microsoft Graph API', 'Jira', 'Confluence', 'Bitbucket', 'GitHub', 'Jenkins',
+    'PowerShell', 'Bash',
+    'Microsoft Intune', 'SCCM/MECM', 'Jamf Pro', 'FleetDM',
+    'Microsoft Graph API', 'Entra ID', 'Microsoft 365',
+    'GitHub Actions', 'Jenkins', 'Git', 'Docker',
     'Power BI', 'Splunk'
 )
 
 # CERTIFICATIONS
 $Certifications = @(
-    'Microsoft 365 Certified: Administrator Expert'
+    'Microsoft 365 Certified: Administrator Expert',
     'Microsoft 365 Certified: Endpoint Administrator Associate',
     'Jamf 200 Certified Tech'
 )
