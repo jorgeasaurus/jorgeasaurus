@@ -21,6 +21,7 @@
 | :--- | :--- | :--- |
 | **[Intune Hydration Kit Module](https://github.com/jorgeasaurus/IntuneHydrationKit)** | PowerShell module that hydrates fresh Intune tenants with repeatable baseline configuration. | `PowerShell` · `Intune` |
 | **[Intune Hydration Kit Webapp](https://github.com/jorgeasaurus/IntuneHydrationKit-WebApp)** | Web-based version of the Intune Hydration Kit experience. | `TypeScript` · `Intune` |
+| **[EndpointJobs](https://github.com/jorgeasaurus/EndpointJobs)** | Focused job board for endpoint engineering, MDM/UEM, client platform, and endpoint security roles. | `TypeScript` · `Endpoint` |
 | **[InTUI](https://github.com/jorgeasaurus/InTUI)** | Terminal UI for managing Microsoft Intune resources through Microsoft Graph. | `PowerShell` · `Graph` |
 | **[MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch)** | Interactive console search for Microsoft 365, Entra ID, and Graph objects. | `PowerShell` · `M365` |
 | **[graphexplorerplus](https://github.com/jorgeasaurus/graphexplorerplus)** | Power-user alternative to Microsoft Graph Explorer for API discovery. | `TypeScript` · `Graph` |
