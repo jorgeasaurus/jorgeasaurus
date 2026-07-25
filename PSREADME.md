@@ -23,6 +23,7 @@ $Projects = @{
     "IntuneHydrationKit-Module" = "$($Info.GitHub)/IntuneHydrationKit"
     "IntuneHydrationKit-WebApp" = "$($Info.GitHub)/IntuneHydrationKit-WebApp"
     "EndpointJobs"             = "$($Info.GitHub)/EndpointJobs"
+    "TerminalSlides"           = "$($Info.GitHub)/TerminalSlides"
     "InTUI"                    = "$($Info.GitHub)/InTUI"
     "MgConsoleGuiGraphSearch"  = "$($Info.GitHub)/MgConsoleGuiGraphSearch"
     "graphexplorerplus"         = "$($Info.GitHub)/graphexplorerplus"
