@@ -12,7 +12,7 @@
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000&color=blue&style=flat-square&label=Profile+Scans" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ## Featured Work
