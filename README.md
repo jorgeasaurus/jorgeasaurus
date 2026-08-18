@@ -12,7 +12,7 @@
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000&color=00FF99&style=flat-square&label=Profile+Scans" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jorgeasaurus&base=1000&color=blue&style=flat-square&label=Profile+Scans" alt="Profile Views" />
 </div>
 
 ## Featured Work
@@ -29,7 +29,7 @@
 | **[WingetIntunePublisher](https://github.com/jorgeasaurus/WingetIntunePublisher)** | Automates WinGet app packaging and deployment to Intune. | `PowerShell` · `WinGet` |
 | **[Intune-Snapshot-Recovery](https://github.com/jorgeasaurus/Intune-Snapshot-Recovery)** | Backup and restore pipeline for Intune tenant configuration. | `PowerShell` · `GitHub Actions` |
 | **[XpMdmExplorer](https://github.com/jorgeasaurus/XpMdmExplorer)** | Cross-platform TUI for exploring Intune and Jamf Pro objects. | `PowerShell` · `Jamf` |
-| **[FleetDM-PowerShell](https://github.com/jorgeasaurus/FleetDM-PowerShell)** | Native PowerShell interface for FleetDM inventory, policy, and host automation. | `PowerShell` · `FleetDM` |
+| **[LaunchLibrary](https://github.com/jorgeasaurus/LaunchLibrary)** | PowerShell client for Launch Library spaceflight data, including launches, events, agencies, and astronauts. | `PowerShell` · `Spaceflight API` |
 
 ## Core Stack
 
