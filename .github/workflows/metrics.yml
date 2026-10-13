@@ -14,11 +14,29 @@ jobs:
     permissions:
       contents: write
     env:
-      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-      METRICS_TOKEN_SOURCE: ${{ secrets.METRICS_TOKEN != '' && 'METRICS_TOKEN' || 'GITHUB_TOKEN' }}
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
-      - name: Log metrics token source
-        run: echo "Using $METRICS_TOKEN_SOURCE for metrics generation."
+      - name: Validate metrics token
+        shell: bash
+        run: |
+          if [[ -z "$METRICS_TOKEN" ]]; then
+            echo "::error::Set METRICS_TOKEN to a valid personal access token in repository Actions secrets. Metrics requires a personal token."
+            exit 1
+          fi
+
+          status=$(curl --silent --show-error --output /dev/null --write-out '%{http_code}' \
+            --connect-timeout 10 --max-time 30 \
+            --header "Authorization: Bearer $METRICS_TOKEN" \
+            --header "Accept: application/vnd.github+json" \
+            "$GITHUB_API_URL/user")
+          if [[ "$status" != "200" ]]; then
+            if [[ "$status" == "401" ]]; then
+              echo "::error::GitHub rejected METRICS_TOKEN. Replace the expired, revoked, or invalid personal access token in repository Actions secrets, then rerun Metrics."
+            else
+              echo "::error::Metrics token validation returned HTTP $status. Check GitHub API availability and token access, then retry."
+            fi
+            exit 1
+          fi
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg

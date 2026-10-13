@@ -100,3 +100,18 @@ Add the merged upstream contribution as a separate open-source activity using th
 ## Review
 
 Added merged Driver Automation Tool PR #855 with its exact submission and merge timestamps, upstream URL, audience, technology areas, and verified contribution details. The queue now contains 53 records: 11 new creations and 42 existing updates. JSON parsing, duplicate checks, PR URL availability, whitespace validation, and the uploader `-WhatIf` preview pass.
+
+# Metrics authentication failure
+
+- [x] Inspect failed run and token selection.
+- [x] Verify upstream token requirements.
+- [x] Add a fast authentication check; retain the built-in commit token.
+- [x] Validate workflow and prepare a fix PR.
+
+## Plan
+
+Validate the selected token before starting Metrics. Preserve the configured metrics access and use the built-in token to commit generated files.
+
+## Review
+
+The failed run used `METRICS_TOKEN` and received `Bad credentials`. Removed the unsupported built-in-token fallback; YAML parsing, shell syntax, missing-token and HTTP 200/401/403/503 checks pass. Live generation remains blocked until the repository secret is replaced with a valid personal token.
