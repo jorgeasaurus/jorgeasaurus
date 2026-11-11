@@ -19,25 +19,28 @@ $Info = [PSCustomObject]@{
 }
 
 # Featured Projects
-$Projects = @{
+$Projects = [ordered]@{
     "IntuneHydrationKit-Module" = "$($Info.GitHub)/IntuneHydrationKit"
     "IntuneHydrationKit-WebApp" = "$($Info.GitHub)/IntuneHydrationKit-WebApp"
-    "EndpointJobs"             = "$($Info.GitHub)/EndpointJobs"
-    "TerminalSlides"           = "$($Info.GitHub)/TerminalSlides"
-    "InTUI"                    = "$($Info.GitHub)/InTUI"
-    "MgConsoleGuiGraphSearch"  = "$($Info.GitHub)/MgConsoleGuiGraphSearch"
+    "Win32Forge"                = "$($Info.GitHub)/Win32Forge"
+    "TenantGraph"               = "$($Info.GitHub)/TenantGraph"
+    "InTUI"                     = "$($Info.GitHub)/InTUI"
+    "MgConsoleGuiGraphSearch"   = "$($Info.GitHub)/MgConsoleGuiGraphSearch"
     "graphexplorerplus"         = "$($Info.GitHub)/graphexplorerplus"
-    "WingetIntunePublisher"     = "$($Info.GitHub)/WingetIntunePublisher"
     "Intune-Snapshot-Recovery"  = "$($Info.GitHub)/Intune-Snapshot-Recovery"
-    "XpMdmExplorer"             = "$($Info.GitHub)/XpMdmExplorer"
     "FleetDM-PowerShell"        = "$($Info.GitHub)/FleetDM-PowerShell"
+    "XpMdmExplorer"             = "$($Info.GitHub)/XpMdmExplorer"
+    "JamfAssignmentChecker"     = "$($Info.GitHub)/JamfAssignmentChecker"
+    "EndpointJobs"              = "$($Info.GitHub)/EndpointJobs"
+    "rePS"                      = "$($Info.GitHub)/rePS"
+    "TerminalSlides"            = "$($Info.GitHub)/TerminalSlides"
 }
 
 # PLATFORMS
 $Platforms = @('Windows', 'macOS', 'Linux', 'iOS', 'Android')
 
 # LANGUAGES
-$Languages = @('PowerShell', 'Bash')
+$Languages = @('PowerShell', 'Bash', 'TypeScript')
 
 # TOOLS & TECHNOLOGIES
 $Tools = @(

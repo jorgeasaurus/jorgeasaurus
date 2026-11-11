@@ -240,25 +240,28 @@ $Info = [PSCustomObject]@{
 }
 
 # Featured Projects
-$Projects = @{
+$Projects = [ordered]@{
     "IntuneHydrationKit-Module" = "$($Info.GitHub)/IntuneHydrationKit"
     "IntuneHydrationKit-WebApp" = "$($Info.GitHub)/IntuneHydrationKit-WebApp"
-    "EndpointJobs"             = "$($Info.GitHub)/EndpointJobs"
-    "TerminalSlides"           = "$($Info.GitHub)/TerminalSlides"
-    "InTUI"                    = "$($Info.GitHub)/InTUI"
-    "MgConsoleGuiGraphSearch"  = "$($Info.GitHub)/MgConsoleGuiGraphSearch"
+    "Win32Forge"                = "$($Info.GitHub)/Win32Forge"
+    "TenantGraph"               = "$($Info.GitHub)/TenantGraph"
+    "InTUI"                     = "$($Info.GitHub)/InTUI"
+    "MgConsoleGuiGraphSearch"   = "$($Info.GitHub)/MgConsoleGuiGraphSearch"
     "graphexplorerplus"         = "$($Info.GitHub)/graphexplorerplus"
-    "WingetIntunePublisher"     = "$($Info.GitHub)/WingetIntunePublisher"
     "Intune-Snapshot-Recovery"  = "$($Info.GitHub)/Intune-Snapshot-Recovery"
-    "XpMdmExplorer"             = "$($Info.GitHub)/XpMdmExplorer"
     "FleetDM-PowerShell"        = "$($Info.GitHub)/FleetDM-PowerShell"
+    "XpMdmExplorer"             = "$($Info.GitHub)/XpMdmExplorer"
+    "JamfAssignmentChecker"     = "$($Info.GitHub)/JamfAssignmentChecker"
+    "EndpointJobs"              = "$($Info.GitHub)/EndpointJobs"
+    "rePS"                      = "$($Info.GitHub)/rePS"
+    "TerminalSlides"            = "$($Info.GitHub)/TerminalSlides"
 }
 
 # PLATFORMS
 $Platforms = @('Windows', 'macOS', 'Linux', 'iOS', 'Android')
 
 # LANGUAGES
-$Languages = @('PowerShell', 'Bash')
+$Languages = @('PowerShell', 'Bash', 'TypeScript')
 
 # TOOLS &amp; TECHNOLOGIES
 $Tools = @(
@@ -407,13 +410,13 @@ $Education = @(
                         <span class="info-value"><a href="https://github.com/jorgeasaurus/IntuneHydrationKit" target="_blank">Intune Hydration Kit Module</a> - PowerShell module that hydrates fresh Intune tenants with repeatable baseline configuration</span>
                     </div>
                     <div class="info-item">
-                        <span class="info-value"><a href="https://github.com/jorgeasaurus/IntuneHydrationKit-WebApp" target="_blank">Intune Hydration Kit Webapp</a> - Web-based version of the Intune Hydration Kit experience</span>
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/IntuneHydrationKit-WebApp" target="_blank">Intune Hydration Kit Webapp</a> - Browser-based version of the Intune Hydration Kit</span>
                     </div>
                     <div class="info-item">
-                        <span class="info-value"><a href="https://github.com/jorgeasaurus/EndpointJobs" target="_blank">EndpointJobs</a> - Focused job board for endpoint engineering, MDM/UEM, client platform, and endpoint security roles</span>
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/Win32Forge" target="_blank">Win32Forge</a> - Packages app folders into .intunewin files and uploads them to Intune</span>
                     </div>
                     <div class="info-item">
-                        <span class="info-value"><a href="https://github.com/jorgeasaurus/TerminalSlides" target="_blank">TerminalSlides</a> - Cross-platform PowerShell module for building and delivering ANSI-rendered slide decks in the terminal</span>
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/TenantGraph" target="_blank">TenantGraph</a> - Interactive 3D graph of Intune and Entra relationships</span>
                     </div>
                     <div class="info-item">
                         <span class="info-value"><a href="https://github.com/jorgeasaurus/InTUI" target="_blank">InTUI</a> - Terminal UI for managing Microsoft Intune resources through Microsoft Graph</span>
@@ -425,16 +428,25 @@ $Education = @(
                         <span class="info-value"><a href="https://github.com/jorgeasaurus/graphexplorerplus" target="_blank">graphexplorerplus</a> - Power-user alternative to Microsoft Graph Explorer for API discovery</span>
                     </div>
                     <div class="info-item">
-                        <span class="info-value"><a href="https://github.com/jorgeasaurus/WingetIntunePublisher" target="_blank">WingetIntunePublisher</a> - Automates WinGet app packaging and deployment to Intune</span>
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/Intune-Snapshot-Recovery" target="_blank">Intune-Snapshot-Recovery</a> - Backup and restore pipeline for Intune tenant configuration</span>
                     </div>
                     <div class="info-item">
-                        <span class="info-value"><a href="https://github.com/jorgeasaurus/Intune-Snapshot-Recovery" target="_blank">Intune-Snapshot-Recovery</a> - Backup and restore pipeline for Intune tenant configuration</span>
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/FleetDM-PowerShell" target="_blank">FleetDM-PowerShell</a> - PowerShell wrapper for the FleetDM API: hosts, policies, and inventory</span>
                     </div>
                     <div class="info-item">
                         <span class="info-value"><a href="https://github.com/jorgeasaurus/XpMdmExplorer" target="_blank">XpMdmExplorer</a> - Cross-platform TUI for exploring Intune and Jamf Pro objects</span>
                     </div>
                     <div class="info-item">
-                        <span class="info-value"><a href="https://github.com/jorgeasaurus/FleetDM-PowerShell" target="_blank">FleetDM-PowerShell</a> - Native PowerShell interface for FleetDM inventory, policy, and host automation</span>
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/JamfAssignmentChecker" target="_blank">JamfAssignmentChecker</a> - Shows what applies to a Jamf Pro computer, user, or group</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/EndpointJobs" target="_blank">EndpointJobs</a> - Focused job board for endpoint engineering, MDM/UEM, client platform, and endpoint security roles</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/rePS" target="_blank">rePS</a> - Random PowerShell practice exercises checked by Pester</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-value"><a href="https://github.com/jorgeasaurus/TerminalSlides" target="_blank">TerminalSlides</a> - Cross-platform PowerShell module for building and delivering ANSI-rendered slide decks in the terminal</span>
                     </div>
                 </div>
             </div>
@@ -456,6 +468,7 @@ $Education = @(
                     <div>
                         <span class="badge">PowerShell</span>
                         <span class="badge">Bash</span>
+                        <span class="badge">TypeScript</span>
                     </div>
                 </div>
                 <div style="margin-top: 1rem;">
