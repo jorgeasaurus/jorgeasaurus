@@ -56,7 +56,7 @@ Static, no-backend sites refreshed daily by GitHub Actions.
 - [PowerShell try/catch: why it misses errors](https://www.jorgeasaur.us/powershell-try-catch-misses-errors)
 - [Learn Intune and PowerShell automation: field notes](https://www.jorgeasaur.us/learn-intune-powershell-automation)
 - [Add a BitLocker startup PIN after Autopilot](https://www.jorgeasaur.us/bitlocker-startup-pin-after-autopilot)
-- [Intune assignments: Do's and don'ts](https://www.jorgeasaur.us/intune-assignments-dos-and-donts)
+- [Intune assignments: Do&#39;s and don&#39;ts](https://www.jorgeasaur.us/intune-assignments-dos-and-donts)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on jorgeasaur.us](https://www.jorgeasaur.us)
