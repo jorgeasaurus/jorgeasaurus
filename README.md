@@ -52,11 +52,11 @@ Static, no-backend sites refreshed daily by GitHub Actions.
 ## ✍️ Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Export BitLocker recovery keys before deleting stale Entra devices](https://www.jorgeasaur.us/export-bitlocker-keys-before-deleting-stale-entra-devices)
 - [Microsoft Graph permissions: delegated vs application](https://www.jorgeasaur.us/microsoft-graph-delegated-vs-application-permissions)
 - [How to turn a PowerShell script into a module](https://www.jorgeasaur.us/powershell-command-to-module)
 - [Intune compliance to Conditional Access, end to end](https://www.jorgeasaur.us/intune-compliance-to-conditional-access)
 - [PowerShell try/catch: why it misses errors](https://www.jorgeasaur.us/powershell-try-catch-misses-errors)
-- [Learn Intune and PowerShell automation: field notes](https://www.jorgeasaur.us/learn-intune-powershell-automation)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on jorgeasaur.us](https://www.jorgeasaur.us)
