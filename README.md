@@ -41,7 +41,7 @@
 
 Static, no-backend sites refreshed daily by GitHub Actions.
 
-[**MgGraph Index**](https://jorgeasaurus.github.io/MgGraphIndex/) · [**Entra Index**](https://jorgeasaurus.github.io/EntraIndex/) · [**Az Index**](https://jorgeasaurus.github.io/AzIndex/) · [**Exchange Index**](https://jorgeasaurus.github.io/ExchIndex/) · [**Microsoft Error Index**](https://jorgeasaurus.github.io/errorindex/) · [**The Intune Gazette**](https://jorgeasaurus.github.io/IntuneDocsAutomation/)
+[**PSIndex**](https://psindex.vercel.app) · [**Microsoft Error Index**](https://jorgeasaurus.github.io/errorindex/) · [**The Intune Gazette**](https://jorgeasaurus.github.io/IntuneDocsAutomation/)
 
 ## 🧪 PowerShell for practice and fun
 
